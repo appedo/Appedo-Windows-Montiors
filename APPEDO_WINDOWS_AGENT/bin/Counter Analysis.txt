@@ -1,0 +1,213 @@
+          Column          |            Type             |                                  Modifiers
+--------------------------+-----------------------------+------------------------------------------------------------------------------
+ counter_id               | integer                     | not null default nextval('counter_master_template_counter_id_seq'::regclass)
+ counter_template_id      | bigint                      | not null
+ user_id                  | bigint                      | not null
+ guid                     | character varying(100)      | not null
+ query_string             | character varying(500)      |
+ execution_type           | character varying(50)       | not null
+ counter_name             | character varying(100)      |
+ category                 | character varying(100)      |
+ instance_name            | character varying(100)      |
+ is_selected              | boolean                     | not null default false
+ is_agent_updated         | boolean                     | not null default false
+ is_enabled               | boolean                     | not null default false
+ has_instance             | boolean                     | not null default false
+ modified_on              | timestamp without time zone |
+ modified_by              | bigint                      |
+ last_date_sent_to_agent  | timestamp without time zone |
+ show_in_graph            | boolean                     | not null default false
+ created_on               | timestamp without time zone | not null
+ created_by               | bigint                      | not null
+ public                   | boolean                     | not null default false
+ display_name             | character varying(100)      |
+ unit                     | character varying(100)      | not null default ''::character varying
+ show_in_primary          | boolean                     | not null default false
+ show_in_secondary        | boolean                     | not null default false
+ show_in_dashboard        | boolean                     | not null default false
+ is_delta                 | boolean                     | default false
+ critical_threshold_value | bigint                      | not null default 0
+ threshold_sla_id         | bigint                      |
+ counter_description      | text                        | default ''::character varying
+ is_top_process           | boolean                     | default false
+ warning_threshold_value  | bigint                      | not null default 0
+ is_percentage            | boolean                     | not null default false
+ is_above_threshold       | boolean                     | not null default false
+ top_process_query_string | character varying           |
+ is_static_counter        | boolean                     | not null default false
+ max_value_counter_id     | integer                     |
+Indexes:
+    "counter_master_template_pkey" PRIMARY KEY, btree (counter_id)
+    "idx_counter_master_template_category_counter_name" UNIQUE, btree (category, counter_name)
+    "idx_counter_master_template_category_display_name" UNIQUE, btree (category, display_name)
+
+Column to be added are 
+1. dd_cnt_name
+2. dd_cat_name
+3. instance_names json type
+
+IN UI system must allow the user to choose the drill down mapping for is top process, dd_cnt_name and dd_category name - Only one drill down per counter allowed
+When drill down (dd) is enabled, even though the counter is not selected, system must send that list in module_counter_list variable.
+	
+asp.net Applications
+Pipeline Instance Count
+Requests/Sec
+Sessions Active
+Transactions/Sec
+Errors Total/Sec
+
+ASP.Net
+Application Running
+Requests Queued
+Request Wait Time
+Worker Process Running
+
+Active Server Pages
+Errors/Sec
+Request Execution Time
+Request Wait Time
+Request Queued
+Request/Sec
+Sessions Current
+Transactions/Sec
+Transactions Pending
+
+APP_POOL_WAS (Related to App Pool in IIS _Total is the instance name for all Display all current app pool as instance name)
+Current Application Pool State (The current status of the application pool (1 - Uninitialized, 2 - Initialized, 3 - Running, 4 - Disabling, 5 - Disabled, 6 - Shutdown Pending, 7 - Delete Pending).)
+Current Worker Process
+Recent Worker Process Failure
+
+Web Service (Related to all websites in IIS _Total is the instance name for all, Website names are instances)
+Current Connections
+Bytes Total/sec
+Get Requests/sec
+Post Requests/sec
+
+.NET CLR MEMORY (Related to process name) _Global_ (instance name to collect all process)
+# Bytes in all Heaps
+# Total Reserved Bytes
+Allocated Bytes/Sec
+
+.NET CLR LocksAndThreads (Related to Process name) _Global_ (instance name to collect all process)
+
+# of current recognized threads
+Current Queue Length
+Queue length / Sec
+rate of recognized threads / sec
+
+.NET CLR Exceptions (Related to Process name) _Global_ (instance name to collect all process)
+# of Exceps Thrown / sec
+
+
+Processor 
+% Processor Time
+
+LogicalDisk	% Free Space
+LogicalDisk	Free Megabytes
+LogicalDisk	Current Disk Queue Length
+LogicalDisk	% Disk Time
+LogicalDisk	Disk Transfers/sec
+LogicalDisk	Avg. Disk sec/Transfer
+LogicalDisk	Avg. Disk Bytes/Transfer
+
+System (drill down can go upto thread level, maintains the context)
+Context Switches/sec
+Processor Queue Length
+
+Memory	
+Page Faults/sec
+Pages/sec
+Available MBytes
+
+
+MSSQL Process name - sqlservr
+IIS process name - w3wp, inetinfo for asp.net application through IIS
+
+Process important counters are (Main Counter for getting drill down information at process level drill down candidates are .Net CLR Memory, Thread)
+% Processor Time
+ID Process
+I/O Data Bytes/Sec
+Private Bytes
+Thread Count
+
+Thread
+% Processor Time
+ID Process
+ID Thread
+Context Switches/Sec
+Thread State
+Thread Wait Reason
+
+Thread State
+Thread State is the current state of the thread.  It is 0 for Initialized, 1 for Ready, 2 for Running, 3 for Standby, 4 for Terminated, 5 for Wait, 6 for Transition, 7 for Unknown.  A Running thread is using a processor; a Standby thread is about to use one.  A Ready thread wants to use a processor, but is waiting for a processor because none are free.  A thread in Transition is waiting for a resource in order to execute, such as waiting for its execution stack to be paged in from disk.  A Waiting thread has no use for the processor because it is waiting for a peripheral operation to complete or a resource to become free.
+Thread Wait Reason
+Thread Wait Reason is only applicable when the thread is in the Wait state (see Thread State).  It is 0 or 7 when the thread is waiting for the Executive, 1 or 8 for a Free Page, 2 or 9 for a Page In, 3 or 10 for a Pool Allocation, 4 or 11 for an Execution Delay, 5 or 12 for a Suspended condition, 6 or 13 for a User Request, 14 for an Event Pair High, 15 for an Event Pair Low, 16 for an LPC Receive, 17 for an LPC Reply, 18 for Virtual Memory, 19 for a Page Out; 20 and higher are not assigned at the time of this writing.  Event Pairs are used to communicate with protected subsystems (see Context Switches).
+
+MSSQL$<DBINSTANCE>:database instance names are database names 
+Active Transactions
+Transactions/sec
+
+MSSQL$SQLEXPRESS:General Statistics
+Processes blocked
+User Connections
+Logins/sec
+
+MSSQL$SQLEXPRESS:Buffer Manager
+Page life expectancy
+Transactions
+Buffer cache hit ratio
+Free list stalls/sec
+
+MSSQL$SQLEXPRESS:Workload Group Stats
+Queued requests
+Active requests
+Requests completed/sec
+Max request cpu time (ms)
+
+MSSQL$SQLEXPRESS:Latches
+Latch Waits/sec
+Average Latch Wait Time (ms)
+
+MSSQL$SQLEXPRESS:SQL Statistics
+SQL Compilations/sec
+
+MSSQL$SQLEXPRESS:Locks	
+Number of Deadlocks/sec
+Lock Waits/sec
+Lock Wait Time (ms)
+
+MSSQL$SQLEXPRESS:Memory Manager
+Free Memory (KB)
+Target Server Memory (KB)
+Total Server Memory (KB)
+Stolen Server Memory (KB)
+Memory Grants Pending
+
+Process for performance counter.
+1. Single config file to be maintained for windows, iis and mssql.
+2. mssql credential must be kept in the config file.
+3. no uuid or guid to be maintained in the config file. 
+4. on restart or first time installation, system will get the uuid and send to the collector. Collector will check for its existance of uuid first, if not exsit will send sucess=true, message:"uuid does not exist" 
+5. if uuid exist collector will check for matching guids from counter master table and will send the guids and its counter set ex. currently it is sending monitor counter set and sla counter set for a single guid, instead it will send for each guid montior and sla counter set guidwise.
+6. in case of missing guids system will check for its existance on every restart. Ex. if iis guid is not returned then system will check whether iis is running an application. if application is running, iis counter will be monitored. 
+7. once guid is received along with counter set, system will start collecting the data for the same and it will work as before.
+8. System might have multiple instance of mssql running in a machine. -- curently will monitor one instance only. connection string decide on the instance that is being monitored.
+9.
+
+
+        [DataMember(Name = "MonitorCounterSetMSIIS")]
+        public MonitorCounter[] MonitorCounterSet { get; set; }
+
+        [DataMember(Name = "SlaCounterSetMSIIS")]
+        public SlaCounter[] SlaCounterSet { get; set; }
+
+        [DataMember(Name = "MonitorCounterSetMSSQL")]
+        public MonitorCounter[] MonitorCounterSet { get; set; }
+
+        [DataMember(Name = "SlaCounterSetMSSQL")]
+        public SlaCounter[] SlaCounterSet { get; set; }
+        [DataMember(Name = "MonitorCounterSetMSIIS")]
+        public MonitorCounter[] MonitorCounterSet { get; set; }
+
+        [DataMember(Name = "SlaCounterSetMSIIS")]
+        public SlaCounter[] SlaCounterSet { get; set; }

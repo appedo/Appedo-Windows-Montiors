@@ -1,0 +1,1315 @@
+Windows,TRUE,Physical Network Interface Card Activity,Device Power State,
+Windows,TRUE,Physical Network Interface Card Activity,% Time Suspended (Instantaneous),
+Windows,TRUE,Physical Network Interface Card Activity,% Time Suspended (Lifetime),
+Windows,TRUE,Physical Network Interface Card Activity,Low Power Transitions (Lifetime),
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Cursor Manager by Type,Cache Hit Ratio,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Cursor Manager by Type,Cache Hit Ratio Base,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Cursor Manager by Type,Cached Cursor Counts,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Cursor Manager by Type,Cursor Cache Use Counts/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Cursor Manager by Type,Cursor Requests/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Cursor Manager by Type,Active cursors,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Cursor Manager by Type,Cursor memory usage,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Cursor Manager by Type,Cursor worktable usage,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Cursor Manager by Type,Number of active cursor plans,_Total
+Windows,TRUE,Processor,% Processor Time,_Total
+Windows,TRUE,Processor,% User Time,_Total
+Windows,TRUE,Processor,% Privileged Time,_Total
+Windows,TRUE,Processor,Interrupts/sec,_Total
+Windows,TRUE,Processor,% DPC Time,_Total
+Windows,TRUE,Processor,% Interrupt Time,_Total
+Windows,TRUE,Processor,DPCs Queued/sec,_Total
+Windows,TRUE,Processor,DPC Rate,_Total
+Windows,TRUE,Processor,% Idle Time,_Total
+Windows,TRUE,Processor,% C1 Time,_Total
+Windows,TRUE,Processor,% C2 Time,_Total
+Windows,TRUE,Processor,% C3 Time,_Total
+Windows,TRUE,Processor,C1 Transitions/sec,_Total
+Windows,TRUE,Processor,C2 Transitions/sec,_Total
+Windows,TRUE,Processor,C3 Transitions/sec,_Total
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,SQL SENDs/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,SQL SEND Total,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,SQL RECEIVEs/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,SQL RECEIVE Total,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Broker Transaction Rollbacks,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Dialog Timer Event Count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued P1 Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued P2 Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued P3 Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued P4 Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued P5 Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued P6 Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued P7 Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued P8 Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued P9 Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued P10 Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued Local Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued Transport Msgs/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued Transport Msg Frags/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued Messages Total,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued Local Messages Total,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued Transport Msgs Total,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued Transport Msg Frag Tot,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Forwarded Pending Msg Count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Forwarded Pending Msg Bytes,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Forwarded Msgs Discarded/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Forwarded Msg Discarded Total,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Forwarded Messages/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Forwarded Messages Total,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Forwarded Msg Bytes/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Forwarded Msg Byte Total,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Enqueued TransmissionQ Msgs/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Dequeued TransmissionQ Msgs/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Dropped Messages Total,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Corrupted Messages Total,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker Statistics,Activation Errors Total,
+Windows,FALSE,WFP,Provider Count,
+Windows,FALSE,IPsec Driver,Active Security Associations,
+Windows,FALSE,IPsec Driver,Pending Security Associations,
+Windows,FALSE,IPsec Driver,Incorrect SPI Packets,
+Windows,FALSE,IPsec Driver,Incorrect SPI Packets/sec,
+Windows,FALSE,IPsec Driver,Bytes Received in Tunnel Mode/sec,
+Windows,FALSE,IPsec Driver,Bytes Sent in Tunnel Mode/sec,
+Windows,FALSE,IPsec Driver,Bytes Received in Transport Mode/sec,
+Windows,FALSE,IPsec Driver,Bytes Sent in Transport Mode/sec,
+Windows,FALSE,IPsec Driver,Offloaded Security Associations,
+Windows,FALSE,IPsec Driver,Offloaded Bytes Received/sec,
+Windows,FALSE,IPsec Driver,Offloaded Bytes Sent/sec,
+Windows,FALSE,IPsec Driver,Packets That Failed Replay Detection,
+Windows,FALSE,IPsec Driver,Packets That Failed Replay Detection/sec,
+Windows,FALSE,IPsec Driver,Packets Not Authenticated,
+Windows,FALSE,IPsec Driver,Packets Not Authenticated/sec,
+Windows,FALSE,IPsec Driver,Packets Not Decrypted,
+Windows,FALSE,IPsec Driver,Packets Not Decrypted/sec,
+Windows,FALSE,IPsec Driver,SA Rekeys,
+Windows,FALSE,IPsec Driver,Security Associations Added,
+Windows,FALSE,IPsec Driver,Packets That Failed ESP Validation,
+Windows,FALSE,IPsec Driver,Packets That Failed ESP Validation/sec,
+Windows,FALSE,IPsec Driver,Packets That Failed UDP-ESP Validation,
+Windows,FALSE,IPsec Driver,Packets That Failed UDP-ESP Validation/sec,
+Windows,FALSE,IPsec Driver,Packets Received Over Wrong SA,
+Windows,FALSE,IPsec Driver,Packets Received Over Wrong SA/sec,
+Windows,FALSE,IPsec Driver,Plaintext Packets Received,
+Windows,FALSE,IPsec Driver,Plaintext Packets Received/sec,
+Windows,FALSE,IPsec Driver,Total Inbound Packets Received,
+Windows,FALSE,IPsec Driver,Inbound Packets Received/sec,
+Windows,FALSE,IPsec Driver,Total Inbound Packets Dropped,
+Windows,FALSE,IPsec Driver,Inbound Packets Dropped/sec,
+Windows,TRUE,Network Interface,Bytes Total/sec,
+Windows,TRUE,Network Interface,Packets/sec,
+Windows,TRUE,Network Interface,Packets Received/sec,
+Windows,TRUE,Network Interface,Packets Sent/sec,
+Windows,TRUE,Network Interface,Current Bandwidth,
+Windows,TRUE,Network Interface,Bytes Received/sec,
+Windows,TRUE,Network Interface,Packets Received Unicast/sec,
+Windows,TRUE,Network Interface,Packets Received Non-Unicast/sec,
+Windows,TRUE,Network Interface,Packets Received Discarded,
+Windows,TRUE,Network Interface,Packets Received Errors,
+Windows,TRUE,Network Interface,Packets Received Unknown,
+Windows,TRUE,Network Interface,Bytes Sent/sec,
+Windows,TRUE,Network Interface,Packets Sent Unicast/sec,
+Windows,TRUE,Network Interface,Packets Sent Non-Unicast/sec,
+Windows,TRUE,Network Interface,Packets Outbound Discarded,
+Windows,TRUE,Network Interface,Packets Outbound Errors,
+Windows,TRUE,Network Interface,Output Queue Length,
+Windows,TRUE,Network Interface,Offloaded Connections,
+Windows,TRUE,Network Interface,TCP Active RSC Connections,
+Windows,TRUE,Network Interface,TCP RSC Coalesced Packets/sec,
+Windows,TRUE,Network Interface,TCP RSC Exceptions/sec,
+Windows,TRUE,Network Interface,TCP RSC Average Packet Size,
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Cursor scans started/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Rows returned/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Rows touched/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Tentatively-deleted rows touched/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Expired rows touched/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Expired rows removed/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Dusty corner scan retries/sec (user-issued),_Total
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Cursor write conflicts/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Cursor unique violations/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Cursor inserts/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Cursor updates/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Cursors,Cursor deletes/sec,_Total
+Windows,FALSE,System,File Read Operations/sec,
+Windows,FALSE,System,File Write Operations/sec,
+Windows,FALSE,System,File Control Operations/sec,
+Windows,FALSE,System,File Read Bytes/sec,
+Windows,FALSE,System,File Write Bytes/sec,
+Windows,FALSE,System,File Control Bytes/sec,
+Windows,FALSE,System,Context Switches/sec,
+Windows,FALSE,System,System Calls/sec,
+Windows,FALSE,System,File Data Operations/sec,
+Windows,FALSE,System,System Up Time,
+Windows,FALSE,System,Processor Queue Length,
+Windows,FALSE,System,Processes,
+Windows,FALSE,System,Threads,
+Windows,FALSE,System,Alignment Fixups/sec,
+Windows,FALSE,System,Exception Dispatches/sec,
+Windows,FALSE,System,Floating Emulations/sec,
+Windows,FALSE,System,% Registry Quota In Use,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,External benefit of memory,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Connection Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Database Cache Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Free Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Granted Workspace Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Lock Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Lock Blocks Allocated,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Lock Owner Blocks Allocated,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Lock Blocks,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Lock Owner Blocks,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Maximum Workspace Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Memory Grants Outstanding,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Memory Grants Pending,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Optimizer Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Reserved Server Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,SQL Cache Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Stolen Server Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Log Pool Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Target Server Memory (KB),
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Memory Manager,Total Server Memory (KB),
+MSSQL,TRUE,SQL Server 2016 XTP Phantom Processor,Phantom scans started/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Phantom Processor,Phantom rows touched/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Phantom Processor,Phantom expiring rows touched/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Phantom Processor,Phantom expired rows touched/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Phantom Processor,Phantom expired rows removed/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Phantom Processor,Dusty corner scan retries/sec (Phantom-issued),_Total
+Windows,FALSE,Distributed Transaction Coordinator,Active Transactions,
+Windows,FALSE,Distributed Transaction Coordinator,Committed Transactions,
+Windows,FALSE,Distributed Transaction Coordinator,Aborted Transactions,
+Windows,FALSE,Distributed Transaction Coordinator,In Doubt Transactions,
+Windows,FALSE,Distributed Transaction Coordinator,Active Transactions Maximum,
+Windows,FALSE,Distributed Transaction Coordinator,Force Committed Transactions,
+Windows,FALSE,Distributed Transaction Coordinator,Force Aborted Transactions,
+Windows,FALSE,Distributed Transaction Coordinator,Response Time -- Minimum,
+Windows,FALSE,Distributed Transaction Coordinator,Response Time -- Average,
+Windows,FALSE,Distributed Transaction Coordinator,Response Time -- Maximum,
+Windows,FALSE,Distributed Transaction Coordinator,Transactions/sec,
+Windows,FALSE,Distributed Transaction Coordinator,Committed Transactions/sec,
+Windows,FALSE,Distributed Transaction Coordinator,Aborted Transactions/sec,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Read Bytes/Sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Write Bytes/Sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Total Bytes/Sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Reads/Sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Writes/Sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Transfers/Sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. Bytes/Read,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. Bytes/Read BASE,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. Bytes/Write,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. Bytes/Write BASE,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. Bytes/Transfer,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. Bytes/Transfer BASE,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. microsec/Read,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. microsec/Read BASE,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. microsec/Write,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. microsec/Write BASE,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. microsec/Transfer,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. microsec/Transfer BASE,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Outstanding HTTP Storage IO,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,HTTP Storage IO retry/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,HTTP Storage IO failed/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. microsec/Read Comp,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. microsec/Read Comp BASE,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. microsec/Write Comp,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:HTTP Storage,Avg. microsec/Write Comp BASE,_Total
+Windows,TRUE,Search Indexer,Master Index Level.,
+Windows,TRUE,Search Indexer,Master Merges to Date,
+Windows,TRUE,Search Indexer,Master Merge Progress,
+Windows,TRUE,Search Indexer,Shadow Merge Levels,
+Windows,TRUE,Search Indexer,Shadow Merge Levels Threshold,
+Windows,TRUE,Search Indexer,Persistent Indexes,
+Windows,TRUE,Search Indexer,Index Size,
+Windows,TRUE,Search Indexer,Unique Keys,
+Windows,TRUE,Search Indexer,Documents Filtered,
+Windows,TRUE,Search Indexer,Work Items Created,
+Windows,TRUE,Search Indexer,Work Items Deleted,
+Windows,TRUE,Search Indexer,Clean WidSets,
+Windows,TRUE,Search Indexer,Dirty WidSets,
+Windows,TRUE,Search Indexer,Master Merges Now.,
+Windows,TRUE,Search Indexer,Active Connections,
+Windows,TRUE,Search Indexer,Queries,
+Windows,TRUE,Search Indexer,Queries Failed,
+Windows,TRUE,Search Indexer,Queries Succeeded,
+Windows,TRUE,Search Indexer,L0 Indexes (Wordlists),
+Windows,TRUE,Search Indexer,L0 Merges (flushes) Now.,
+Windows,TRUE,Search Indexer,L0 Merge (Flush) Speed - Average,
+Windows,TRUE,Search Indexer,L0 Merge (Flush) - Count,
+Windows,TRUE,Search Indexer,L0 Merge (Flush) Speed - Last,
+Windows,TRUE,Search Indexer,Persistent Indexes L1,
+Windows,TRUE,Search Indexer,L1 Merges Now.,
+Windows,TRUE,Search Indexer,L1 Merge Speed - average,
+Windows,TRUE,Search Indexer,L1 Merge - Count,
+Windows,TRUE,Search Indexer,L1 Merge Speed - last,
+Windows,TRUE,Search Indexer,Persistent Indexes L2,
+Windows,TRUE,Search Indexer,L2 Merges Now.,
+Windows,TRUE,Search Indexer,L2 Merge Speed - average,
+Windows,TRUE,Search Indexer,L2 Merge - Count,
+Windows,TRUE,Search Indexer,L2 Merge Speed - last,
+Windows,TRUE,Search Indexer,Persistent Indexes L3,
+Windows,TRUE,Search Indexer,L3 Merges Now.,
+Windows,TRUE,Search Indexer,L3 Merge Speed - average,
+Windows,TRUE,Search Indexer,L3 Merge - Count,
+Windows,TRUE,Search Indexer,L3 Merge Speed - last,
+Windows,TRUE,Search Indexer,Persistent Indexes L4,
+Windows,TRUE,Search Indexer,L4 Merges Now.,
+Windows,TRUE,Search Indexer,L4 Merge Speed - average,
+Windows,TRUE,Search Indexer,L4 Merge - Count,
+Windows,TRUE,Search Indexer,L4 Merge Speed - last,
+Windows,TRUE,Search Indexer,Persistent Indexes L5,
+Windows,TRUE,Search Indexer,L5 Merges Now.,
+Windows,TRUE,Search Indexer,L5 Merge Speed - average,
+Windows,TRUE,Search Indexer,L5 Merge - Count,
+Windows,TRUE,Search Indexer,L5 Merge Speed - last,
+Windows,TRUE,Search Indexer,Persistent Indexes L6,
+Windows,TRUE,Search Indexer,L6 Merges Now.,
+Windows,TRUE,Search Indexer,L6 Merge Speed - average,
+Windows,TRUE,Search Indexer,L6 Merge - Count,
+Windows,TRUE,Search Indexer,L6 Merge Speed - last,
+Windows,TRUE,Search Indexer,Persistent Indexes L7,
+Windows,TRUE,Search Indexer,L7 Merges Now.,
+Windows,TRUE,Search Indexer,L7 Merge Speed - average,
+Windows,TRUE,Search Indexer,L7 Merge - Count,
+Windows,TRUE,Search Indexer,L7 Merge Speed - last,
+Windows,TRUE,Search Indexer,Persistent Indexes L8,
+Windows,TRUE,Search Indexer,L8 Merges Now.,
+Windows,TRUE,Search Indexer,L8 Merge Speed - average,
+Windows,TRUE,Search Indexer,L8 Merge - Count,
+Windows,TRUE,Search Indexer,L8 Merge Speed - last,
+Windows,TRUE,Per Processor Network Interface Card Activity,DPCs Queued/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Interrupts/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Receive Indications/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Return Packet Calls/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Received Packets/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Returned Packets/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,DPCs Queued on Other CPUs/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Send Request Calls/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Send Complete Calls/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Sent Packets/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Sent Complete Packets/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Build Scatter Gather List Calls/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,RSS Indirection Table Change Calls/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Low Resource Receive Indications/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Low Resource Received Packets/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Tcp Offload Receive Indications/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Tcp Offload Send Request Calls/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Tcp Offload Receive bytes/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Tcp Offload Send bytes/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,DPCs Deferred/sec,_Total
+Windows,TRUE,Per Processor Network Interface Card Activity,Packets Coalesced/sec,_Total
+Windows,TRUE,SynchronizationNuma,Spinlock Acquires/sec,_Total
+Windows,TRUE,SynchronizationNuma,Spinlock Contentions/sec,_Total
+Windows,TRUE,SynchronizationNuma,Spinlock Spins/sec,_Total
+Windows,TRUE,SynchronizationNuma,IPI Send Broadcast Requests/sec,_Total
+Windows,TRUE,SynchronizationNuma,IPI Send Routine Requests/sec,_Total
+Windows,TRUE,SynchronizationNuma,IPI Send Software Interrupts/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Total Initialize/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Total Re-Initialize/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Total Delete/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Total Acquires/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Total Contentions/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Total Exclusive Releases/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Total Shared Releases/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Total Conv. Exclusive To Shared/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Attempts AcqExclLite/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Acquires AcqExclLite/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Recursive Excl. Acquires AcqExclLite/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Contention AcqExclLite/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource no-Waits AcqExclLite/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Attempts AcqShrdLite/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Recursive Excl. Acquires AcqShrdLite/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Acquires AcqShrdLite/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Recursive Sh. Acquires AcqShrdLite/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Contention AcqShrdLite/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource no-Waits AcqShrdLite/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Attempts AcqShrdStarveExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Recursive Excl. Acquires AcqShrdStarveExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Acquires AcqShrdStarveExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Recursive Sh. Acquires AcqShrdStarveExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Contention AcqShrdStarveExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource no-Waits AcqShrdStarveExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Attempts AcqShrdWaitForExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Recursive Excl. Acquires AcqShrdWaitForExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Acquires AcqShrdWaitForExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Recursive Sh. Acquires AcqShrdWaitForExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Contention AcqShrdWaitForExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource no-Waits AcqShrdWaitForExcl/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Set Owner Pointer Exclusive/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Set Owner Pointer Shared (New Owner)/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Set Owner Pointer Shared (Existing Owner)/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Boost Excl. Owner/sec,_Total
+Windows,TRUE,SynchronizationNuma,Exec. Resource Boost Shared Owners/sec,_Total
+Windows,FALSE,IPsec Connections,Total Number current Connections,
+Windows,FALSE,IPsec Connections,Total number of cumulative connections since boot,
+Windows,FALSE,IPsec Connections,Max number of connections since boot,
+Windows,FALSE,IPsec Connections,Total Bytes In since start,
+Windows,FALSE,IPsec Connections,Total Bytes Out since start,
+Windows,FALSE,IPsec Connections,Number of failed authentications,
+Windows,TRUE,Processor Information,% Processor Time,_Total
+Windows,TRUE,Processor Information,% User Time,_Total
+Windows,TRUE,Processor Information,% Privileged Time,_Total
+Windows,TRUE,Processor Information,Interrupts/sec,_Total
+Windows,TRUE,Processor Information,% DPC Time,_Total
+Windows,TRUE,Processor Information,% Interrupt Time,_Total
+Windows,TRUE,Processor Information,DPCs Queued/sec,_Total
+Windows,TRUE,Processor Information,DPC Rate,_Total
+Windows,TRUE,Processor Information,% Idle Time,_Total
+Windows,TRUE,Processor Information,% C1 Time,_Total
+Windows,TRUE,Processor Information,% C2 Time,_Total
+Windows,TRUE,Processor Information,% C3 Time,_Total
+Windows,TRUE,Processor Information,C1 Transitions/sec,_Total
+Windows,TRUE,Processor Information,C2 Transitions/sec,_Total
+Windows,TRUE,Processor Information,C3 Transitions/sec,_Total
+Windows,TRUE,Processor Information,% Priority Time,_Total
+Windows,TRUE,Processor Information,Parking Status,_Total
+Windows,TRUE,Processor Information,Processor Frequency,_Total
+Windows,TRUE,Processor Information,% of Maximum Frequency,_Total
+Windows,TRUE,Processor Information,Processor State Flags,_Total
+Windows,TRUE,Processor Information,Clock Interrupts/sec,_Total
+Windows,TRUE,Processor Information,Average Idle Time,_Total
+Windows,TRUE,Processor Information,Idle Break Events/sec,_Total
+Windows,TRUE,Processor Information,% Processor Performance,_Total
+Windows,TRUE,Processor Information,% Processor Utility,_Total
+Windows,TRUE,Processor Information,% Privileged Utility,_Total
+Windows,TRUE,Processor Information,% Performance Limit,_Total
+Windows,TRUE,Processor Information,Performance Limit Flags,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Delta Rowgroups Created,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Delta Rowgroups Closed,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Delta Rowgroups Compressed,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Total Rowgroups Compressed,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Total Delete Buffers Migrated,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Total Merge Policy Evaluations,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Total Source Rowgroups Merged,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Total Rowgroups Merge Compressed,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Total Rowgroups Fit For Merge,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Segment Cache Hit Ratio,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Segment Cache Hit Ratio Base,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Columnstore,Segment Reads/Sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Deprecated Features,Usage,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Lock waits,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Memory grant queue waits,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Thread-safe memory objects waits,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Log write waits,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Log buffer waits,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Network IO waits,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Page IO latch waits,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Page latch waits,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Non-Page latch waits,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Wait for the worker,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Workspace synchronization waits,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Wait Statistics,Transaction ownership waits,
+Windows,TRUE,Network Virtualization,Unicast packets sent (GRE),
+Windows,TRUE,Network Virtualization,Unicast packets received (GRE),
+Windows,TRUE,Network Virtualization,Multicast packets sent,
+Windows,TRUE,Network Virtualization,Multicast packets received,
+Windows,TRUE,Network Virtualization,Broadcast packets sent,
+Windows,TRUE,Network Virtualization,Broadcast packets received,
+Windows,TRUE,Network Virtualization,Policy cache misses,
+Windows,TRUE,Network Virtualization,Policy cache hits,
+Windows,TRUE,Network Virtualization,Policy lookup failures,
+Windows,TRUE,Network Virtualization,Packets buffered,
+Windows,TRUE,Network Virtualization,Packets forwarded,
+Windows,TRUE,Network Virtualization,Packets looped back,
+Windows,TRUE,Network Virtualization,Missing policy notifications dropped,
+Windows,TRUE,Network Virtualization,Missing policy notifications indicated,
+Windows,TRUE,Network Virtualization,Missing policy icmp errors sent,
+Windows,TRUE,Network Virtualization,Missing policy icmp errors received,
+Windows,TRUE,Network Virtualization,Provider address duplicate detection failures,
+Windows,TRUE,Network Virtualization,Outbound Packets dropped,
+Windows,TRUE,Network Virtualization,Inbound Packets dropped,
+Windows,TRUE,Network Virtualization,Unicast Replicated Packets out,
+Windows,TRUE,Teredo Relay,In - Teredo Relay Total Packets: Success + Error,
+Windows,TRUE,Teredo Relay,In - Teredo Relay Success Packets: Total,
+Windows,TRUE,Teredo Relay,In - Teredo Relay Success Packets: Bubbles,
+Windows,TRUE,Teredo Relay,In - Teredo Relay Success Packets: Data Packets,
+Windows,TRUE,Teredo Relay,In - Teredo Relay Error Packets: Total,
+Windows,TRUE,Teredo Relay,In - Teredo Relay Error Packets: Header Error,
+Windows,TRUE,Teredo Relay,In - Teredo Relay Error Packets: Source Error,
+Windows,TRUE,Teredo Relay,In - Teredo Relay Error Packets: Destination Error,
+Windows,TRUE,Teredo Relay,Out - Teredo Relay Total Packets: Success + Error,
+Windows,TRUE,Teredo Relay,Out - Teredo Relay Success Packets,
+Windows,TRUE,Teredo Relay,Out - Teredo Relay Success Packets: Bubbles,
+Windows,TRUE,Teredo Relay,Out - Teredo Relay Success Packets: Data Packets,
+Windows,TRUE,Teredo Relay,Out - Teredo Relay Error Packets,
+Windows,TRUE,Teredo Relay,Out - Teredo Relay Error Packets: Header Error,
+Windows,TRUE,Teredo Relay,Out - Teredo Relay Error Packets: Source Error,
+Windows,TRUE,Teredo Relay,Out - Teredo Relay Error Packets: Destination Error,
+Windows,TRUE,Teredo Relay,In - Teredo Relay Total Packets: Success + Error / sec,
+Windows,TRUE,Teredo Relay,Out - Teredo Relay Total Packets: Success + Error / sec,
+Windows,TRUE,Teredo Relay,In - Teredo Relay Success Packets: Data Packets User Mode,
+Windows,TRUE,Teredo Relay,In - Teredo Relay Success Packets: Data Packets Kernel Mode,
+Windows,TRUE,Teredo Relay,Out - Teredo Relay Success Packets: Data Packets User Mode,
+Windows,TRUE,Teredo Relay,Out - Teredo Relay Success Packets: Data Packets Kernel Mode,
+Windows,TRUE,Paging File,% Usage,_Total
+Windows,TRUE,Paging File,% Usage Peak,_Total
+Windows,FALSE,Objects,Processes,
+Windows,FALSE,Objects,Threads,
+Windows,FALSE,Objects,Events,
+Windows,FALSE,Objects,Semaphores,
+Windows,FALSE,Objects,Mutexes,
+Windows,FALSE,Objects,Sections,
+Windows,TRUE,Thermal Zone Information,Temperature,
+Windows,TRUE,Thermal Zone Information,% Passive Limit,
+Windows,TRUE,Thermal Zone Information,Throttle Reasons,
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Rows processed/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Rows processed/sec (no sweep needed),_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Rows processed/sec (first in bucket),_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Rows processed/sec (first in bucket and removed),_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Rows processed/sec (marked for unlink),_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Parallel GC work item/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Main GC work items/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Sweep scans started/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Sweep rows touched/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Sweep expiring rows touched/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Sweep expired rows touched/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Sweep expired rows removed/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Garbage Collection,Dusty corner scan retries/sec (GC-issued),_Total
+Windows,FALSE,WFPv4,Inbound Packets Discarded/sec,
+Windows,FALSE,WFPv4,Outbound Packets Discarded/sec,
+Windows,FALSE,WFPv4,Packets Discarded/sec,
+Windows,FALSE,WFPv4,Blocked Binds,
+Windows,FALSE,WFPv4,Inbound Connections Blocked/sec,
+Windows,FALSE,WFPv4,Outbound Connections Blocked/sec,
+Windows,FALSE,WFPv4,Inbound Connections Allowed/sec,
+Windows,FALSE,WFPv4,Outbound Connections Allowed/sec,
+Windows,FALSE,WFPv4,Inbound Connections,
+Windows,FALSE,WFPv4,Outbound Connections,
+Windows,FALSE,WFPv4,Active Inbound Connections,
+Windows,FALSE,WFPv4,Active Outbound Connections,
+Windows,FALSE,WFPv4,Allowed Classifies/sec,
+Windows,FALSE,WFPv6,Inbound Packets Discarded/sec,
+Windows,FALSE,WFPv6,Outbound Packets Discarded/sec,
+Windows,FALSE,WFPv6,Packets Discarded/sec,
+Windows,FALSE,WFPv6,Blocked Binds,
+Windows,FALSE,WFPv6,Inbound Connections Blocked/sec,
+Windows,FALSE,WFPv6,Outbound Connections Blocked/sec,
+Windows,FALSE,WFPv6,Inbound Connections Allowed/sec,
+Windows,FALSE,WFPv6,Outbound Connections Allowed/sec,
+Windows,FALSE,WFPv6,Inbound Connections,
+Windows,FALSE,WFPv6,Outbound Connections,
+Windows,FALSE,WFPv6,Active Inbound Connections,
+Windows,FALSE,WFPv6,Active Outbound Connections,
+Windows,FALSE,WFPv6,Allowed Classifies/sec,
+Windows,TRUE,PhysicalDisk,Current Disk Queue Length,_Total
+Windows,TRUE,PhysicalDisk,% Disk Time,_Total
+Windows,TRUE,PhysicalDisk,Avg. Disk Queue Length,_Total
+Windows,TRUE,PhysicalDisk,% Disk Read Time,_Total
+Windows,TRUE,PhysicalDisk,Avg. Disk Read Queue Length,_Total
+Windows,TRUE,PhysicalDisk,% Disk Write Time,_Total
+Windows,TRUE,PhysicalDisk,Avg. Disk Write Queue Length,_Total
+Windows,TRUE,PhysicalDisk,Avg. Disk sec/Transfer,_Total
+Windows,TRUE,PhysicalDisk,Avg. Disk sec/Read,_Total
+Windows,TRUE,PhysicalDisk,Avg. Disk sec/Write,_Total
+Windows,TRUE,PhysicalDisk,Disk Transfers/sec,_Total
+Windows,TRUE,PhysicalDisk,Disk Reads/sec,_Total
+Windows,TRUE,PhysicalDisk,Disk Writes/sec,_Total
+Windows,TRUE,PhysicalDisk,Disk Bytes/sec,_Total
+Windows,TRUE,PhysicalDisk,Disk Read Bytes/sec,_Total
+Windows,TRUE,PhysicalDisk,Disk Write Bytes/sec,_Total
+Windows,TRUE,PhysicalDisk,Avg. Disk Bytes/Transfer,_Total
+Windows,TRUE,PhysicalDisk,Avg. Disk Bytes/Read,_Total
+Windows,TRUE,PhysicalDisk,Avg. Disk Bytes/Write,_Total
+Windows,TRUE,PhysicalDisk,% Idle Time,_Total
+Windows,TRUE,PhysicalDisk,Split IO/Sec,_Total
+Windows,TRUE,Terminal Services Session,% Processor Time,
+Windows,TRUE,Terminal Services Session,% User Time,
+Windows,TRUE,Terminal Services Session,% Privileged Time,
+Windows,TRUE,Terminal Services Session,Virtual Bytes Peak,
+Windows,TRUE,Terminal Services Session,Virtual Bytes,
+Windows,TRUE,Terminal Services Session,Page Faults/sec,
+Windows,TRUE,Terminal Services Session,Working Set Peak,
+Windows,TRUE,Terminal Services Session,Working Set,
+Windows,TRUE,Terminal Services Session,Page File Bytes Peak,
+Windows,TRUE,Terminal Services Session,Page File Bytes,
+Windows,TRUE,Terminal Services Session,Private Bytes,
+Windows,TRUE,Terminal Services Session,Thread Count,
+Windows,TRUE,Terminal Services Session,Pool Paged Bytes,
+Windows,TRUE,Terminal Services Session,Pool Nonpaged Bytes,
+Windows,TRUE,Terminal Services Session,Handle Count,
+Windows,FALSE,Terminal Services,Active Sessions,
+Windows,FALSE,Terminal Services,Inactive Sessions,
+Windows,FALSE,Terminal Services,Total Sessions,
+Windows,FALSE,SMSvcHost 3.0.0.0,Protocol Failures over net.tcp,
+Windows,FALSE,SMSvcHost 3.0.0.0,Protocol Failures over net.pipe,
+Windows,FALSE,SMSvcHost 3.0.0.0,Dispatch Failures over net.tcp,
+Windows,FALSE,SMSvcHost 3.0.0.0,Dispatch Failures over net.pipe,
+Windows,FALSE,SMSvcHost 3.0.0.0,Connections Dispatched over net.tcp,
+Windows,FALSE,SMSvcHost 3.0.0.0,Connections Dispatched over net.pipe,
+Windows,FALSE,SMSvcHost 3.0.0.0,Connections Accepted over net.tcp,
+Windows,FALSE,SMSvcHost 3.0.0.0,Connections Accepted over net.pipe,
+Windows,FALSE,SMSvcHost 3.0.0.0,Registrations Active for net.tcp,
+Windows,FALSE,SMSvcHost 3.0.0.0,Registrations Active for net.pipe,
+Windows,FALSE,SMSvcHost 3.0.0.0,Uris Registered for net.tcp,
+Windows,FALSE,SMSvcHost 3.0.0.0,Uris Registered for net.pipe,
+Windows,FALSE,SMSvcHost 3.0.0.0,Uris Unregistered for net.tcp,
+Windows,FALSE,SMSvcHost 3.0.0.0,Uris Unregistered for net.pipe,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:SQL Errors,Errors/sec,_Total
+MSSQL,FALSE,SQLAgent$SQLEXPRESS:Alerts,Activated alerts,
+MSSQL,FALSE,SQLAgent$SQLEXPRESS:Alerts,Alerts activated/minute,
+MSSQL,TRUE,SQL Server 2016 XTP Transactions,Transactions created/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Transactions,Read-only transactions prepared/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Transactions,Transactions aborted/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Transactions,Transactions aborted by user/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Transactions,Transaction validation failures/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Transactions,Commit dependencies taken/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Transactions,Cascading aborts/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Transactions,Save points created/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Transactions,Save point rollbacks/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Transactions,Save point refreshes/sec,_Total
+Windows,TRUE,Teredo Server,In - Teredo Server Total Packets: Success + Error,
+Windows,TRUE,Teredo Server,In - Teredo Server Success Packets: Total,
+Windows,TRUE,Teredo Server,In - Teredo Server Success Packets: Bubbles,
+Windows,TRUE,Teredo Server,In - Teredo Server Success Packets: Echo,
+Windows,TRUE,Teredo Server,In - Teredo Server Success Packets: RS-Primary,
+Windows,TRUE,Teredo Server,In - Teredo Server Success Packets: RS-Secondary,
+Windows,TRUE,Teredo Server,In - Teredo Server Error Packets: Total,
+Windows,TRUE,Teredo Server,In - Teredo Server Error Packets: Header Error,
+Windows,TRUE,Teredo Server,In - Teredo Server Error Packets: Source Error,
+Windows,TRUE,Teredo Server,In - Teredo Server Error Packets: Destination Error,
+Windows,TRUE,Teredo Server,In - Teredo Server Error Packets: Authentication Error,
+Windows,TRUE,Teredo Server,Out - Teredo Server: RA-Primary,
+Windows,TRUE,Teredo Server,Out - Teredo Server: RA-Secondary ,
+Windows,TRUE,Teredo Server,In - Teredo Server Total Packets: Success + Error / sec,
+Windows,FALSE,IPsec AuthIP IPv4,Active Main Mode SAs,
+Windows,FALSE,IPsec AuthIP IPv4,Pending Main Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Main Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Main Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv4,Successful Main Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Successful Main Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv4,Failed Main Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Failed Main Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv4,Main Mode Negotiation Requests Received,
+Windows,FALSE,IPsec AuthIP IPv4,Main Mode Negotiation Requests Received/sec,
+Windows,FALSE,IPsec AuthIP IPv4,Main Mode SAs That Used Impersonation,
+Windows,FALSE,IPsec AuthIP IPv4,Main Mode SAs That Used Impersonation/sec,
+Windows,FALSE,IPsec AuthIP IPv4,Active Quick Mode SAs,
+Windows,FALSE,IPsec AuthIP IPv4,Pending Quick Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Quick Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Quick Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv4,Successful Quick Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Successful Quick Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv4,Failed Quick Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Failed Quick Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv4,Active Extended Mode SAs,
+Windows,FALSE,IPsec AuthIP IPv4,Pending Extended Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Extended Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Extended Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv4,Successful Extended Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Successful Extended Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv4,Failed Extended Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv4,Failed Extended Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv4,Extended Mode SAs That Used Impersonation,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Open Connection Count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Send I/Os/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Send I/O bytes/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Send I/O Len Avg,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Send I/O Len Avg Base,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Encryption I/Os/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Encrypted I/O bytes/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Decryption I/Os/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Decrypted I/O bytes/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Send Flow Control Gate,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Send Flow Control Enters/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Send Flow Control Exits/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Receive Flow Control Gate,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Receive Flow Control Enters/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Receive Flow Control Exits/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Receive I/Os/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Receive I/O bytes/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Receive I/O Len Avg,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Receive I/O Len Avg Base,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment Sends/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment P1 Sends/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment P2 Sends/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment P3 Sends/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment P4 Sends/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment P5 Sends/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment P6 Sends/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment P7 Sends/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment P8 Sends/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment P9 Sends/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment P10 Sends/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Msg Fragment Send Size Avg,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Msg Fragment Send Size Avg Base,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Message Fragment Receives/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Msg Fragment Recv Size Avg,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Msg Fragment Recv Size Avg Base,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Pending Msg Frags for Send I/O,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Current Msg Frags for Send I/O,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Pending Bytes for Send I/O,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Current Bytes for Send I/O,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Pending Msg Frags for Recv I/O,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Current Bytes for Recv I/O,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Pending Bytes for Recv I/O,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Recv I/O Buffer Copies Count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Broker/DBM Transport,Recv I/O Buffer Copies bytes/sec,
+Windows,TRUE,Microsoft FTP Service,Bytes Sent/sec,_Total
+Windows,TRUE,Microsoft FTP Service,Bytes Received/sec,_Total
+Windows,TRUE,Microsoft FTP Service,Bytes Total/sec,_Total
+Windows,TRUE,Microsoft FTP Service,Total Files Sent,_Total
+Windows,TRUE,Microsoft FTP Service,Total Files Received,_Total
+Windows,TRUE,Microsoft FTP Service,Total Files Transferred,_Total
+Windows,TRUE,Microsoft FTP Service,Current Anonymous Users,_Total
+Windows,TRUE,Microsoft FTP Service,Current NonAnonymous Users,_Total
+Windows,TRUE,Microsoft FTP Service,Total Anonymous Users,_Total
+Windows,TRUE,Microsoft FTP Service,Total NonAnonymous Users,_Total
+Windows,TRUE,Microsoft FTP Service,Maximum Anonymous Users,_Total
+Windows,TRUE,Microsoft FTP Service,Maximum NonAnonymous Users,_Total
+Windows,TRUE,Microsoft FTP Service,Current Connections,_Total
+Windows,TRUE,Microsoft FTP Service,Maximum Connections,_Total
+Windows,TRUE,Microsoft FTP Service,Total Connection Attempts,_Total
+Windows,TRUE,Microsoft FTP Service,Total Logon Attempts,_Total
+Windows,TRUE,Microsoft FTP Service,Microsoft FTP Service Uptime,_Total
+Windows,FALSE,TCPv6,Segments/sec,
+Windows,FALSE,TCPv6,Connections Established,
+Windows,FALSE,TCPv6,Connections Active,
+Windows,FALSE,TCPv6,Connections Passive,
+Windows,FALSE,TCPv6,Connection Failures,
+Windows,FALSE,TCPv6,Connections Reset,
+Windows,FALSE,TCPv6,Segments Received/sec,
+Windows,FALSE,TCPv6,Segments Sent/sec,
+Windows,FALSE,TCPv6,Segments Retransmitted/sec,
+Windows,FALSE,Intel Storage Counters,Psi Initial Storage Data Load Time (Ms),
+Windows,FALSE,Intel Storage Counters,Psi Snapshot Count,
+Windows,FALSE,Intel Storage Counters,Psi Update Count,
+Windows,FALSE,Intel Storage Counters,Psi Average Storage Data Update Time (Ms),
+Windows,FALSE,Intel Storage Counters,Psi Data Update Time Base,
+Windows,FALSE,Intel Storage Counters,Psi Storage Driver Busy Count,
+Windows,FALSE,Intel Storage Counters,Psi Storage Driver Error Count,
+Windows,FALSE,TCPv4,Segments/sec,
+Windows,FALSE,TCPv4,Connections Established,
+Windows,FALSE,TCPv4,Connections Active,
+Windows,FALSE,TCPv4,Connections Passive,
+Windows,FALSE,TCPv4,Connection Failures,
+Windows,FALSE,TCPv4,Connections Reset,
+Windows,FALSE,TCPv4,Segments Received/sec,
+Windows,FALSE,TCPv4,Segments Sent/sec,
+Windows,FALSE,TCPv4,Segments Retransmitted/sec,
+MSSQL,TRUE,SQL Server 2016 XTP Storage,Merge Requests Outstanding,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Storage,Merge Policy Evaluations,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Storage,Merges Installed,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Storage,Merges Abandoned,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Storage,Core Merges Completed,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Storage,Total Files Merged,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Storage,Checkpoints Completed,_Total
+MSSQL,TRUE,SQL Server 2016 XTP Storage,Checkpoints Closed,_Total
+Windows,TRUE,Process,% Processor Time,_Total
+Windows,TRUE,Process,% User Time,_Total
+Windows,TRUE,Process,% Privileged Time,_Total
+Windows,TRUE,Process,Virtual Bytes Peak,_Total
+Windows,TRUE,Process,Virtual Bytes,_Total
+Windows,TRUE,Process,Page Faults/sec,_Total
+Windows,TRUE,Process,Working Set Peak,_Total
+Windows,TRUE,Process,Working Set,_Total
+Windows,TRUE,Process,Page File Bytes Peak,_Total
+Windows,TRUE,Process,Page File Bytes,_Total
+Windows,TRUE,Process,Private Bytes,_Total
+Windows,TRUE,Process,Thread Count,_Total
+Windows,TRUE,Process,Priority Base,_Total
+Windows,TRUE,Process,Elapsed Time,_Total
+Windows,TRUE,Process,ID Process,_Total
+Windows,TRUE,Process,Creating Process ID,_Total
+Windows,TRUE,Process,Pool Paged Bytes,_Total
+Windows,TRUE,Process,Pool Nonpaged Bytes,_Total
+Windows,TRUE,Process,Handle Count,_Total
+Windows,TRUE,Process,IO Read Operations/sec,_Total
+Windows,TRUE,Process,IO Write Operations/sec,_Total
+Windows,TRUE,Process,IO Data Operations/sec,_Total
+Windows,TRUE,Process,IO Other Operations/sec,_Total
+Windows,TRUE,Process,IO Read Bytes/sec,_Total
+Windows,TRUE,Process,IO Write Bytes/sec,_Total
+Windows,TRUE,Process,IO Data Bytes/sec,_Total
+Windows,TRUE,Process,IO Other Bytes/sec,_Total
+Windows,TRUE,Process,Working Set - Private,_Total
+Windows,FALSE,IPsec AuthIP IPv6,Active Main Mode SAs,
+Windows,FALSE,IPsec AuthIP IPv6,Pending Main Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Main Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Main Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv6,Successful Main Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Successful Main Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv6,Failed Main Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Failed Main Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv6,Main Mode Negotiation Requests Received,
+Windows,FALSE,IPsec AuthIP IPv6,Main Mode Negotiation Requests Received/sec,
+Windows,FALSE,IPsec AuthIP IPv6,Main Mode SAs That Used Impersonation,
+Windows,FALSE,IPsec AuthIP IPv6,Main Mode SAs That Used Impersonation/sec,
+Windows,FALSE,IPsec AuthIP IPv6,Active Quick Mode SAs,
+Windows,FALSE,IPsec AuthIP IPv6,Pending Quick Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Quick Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Quick Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv6,Successful Quick Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Successful Quick Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv6,Failed Quick Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Failed Quick Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv6,Active Extended Mode SAs,
+Windows,FALSE,IPsec AuthIP IPv6,Pending Extended Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Extended Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Extended Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv6,Successful Extended Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Successful Extended Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv6,Failed Extended Mode Negotiations,
+Windows,FALSE,IPsec AuthIP IPv6,Failed Extended Mode Negotiations/sec,
+Windows,FALSE,IPsec AuthIP IPv6,Extended Mode SAs That Used Impersonation,
+Windows,FALSE,Hyper-V Hypervisor,Logical Processors,
+Windows,FALSE,Hyper-V Hypervisor,Partitions,
+Windows,FALSE,Hyper-V Hypervisor,Total Pages,
+Windows,FALSE,Hyper-V Hypervisor,Virtual Processors,
+Windows,FALSE,Hyper-V Hypervisor,Monitored Notifications,
+Windows,FALSE,Hyper-V Hypervisor,Modern Standby Entries,
+Windows,FALSE,Hyper-V Hypervisor,Platform Idle Transitions,
+Windows,FALSE,Hyper-V Hypervisor,HypervisorStartupCost,
+Windows,FALSE,Client Side Caching,SMB BranchCache Bytes Requested,
+Windows,FALSE,Client Side Caching,SMB BranchCache Bytes Received,
+Windows,FALSE,Client Side Caching,SMB BranchCache Bytes Published,
+Windows,FALSE,Client Side Caching,SMB BranchCache Bytes Requested From Server,
+Windows,FALSE,Client Side Caching,SMB BranchCache Hashes Requested,
+Windows,FALSE,Client Side Caching,SMB BranchCache Hashes Received,
+Windows,FALSE,Client Side Caching,SMB BranchCache Hash Bytes Received,
+Windows,FALSE,Client Side Caching,Prefetch Operations Queued,
+Windows,FALSE,Client Side Caching,Prefetch Bytes Read From Cache,
+Windows,FALSE,Client Side Caching,Prefetch Bytes Read From Server,
+Windows,FALSE,Client Side Caching,Application Bytes Read From Cache,
+Windows,FALSE,Client Side Caching,Application Bytes Read From Server,
+Windows,FALSE,Client Side Caching,Application Bytes Read From Server (Not Cached),
+Windows,TRUE,Hyper-V Virtual Switch Processor,Number of VMQs,
+Windows,TRUE,Hyper-V Virtual Switch Processor,Number of Transmit Completes/sec,
+Windows,TRUE,Hyper-V Virtual Switch Processor,Packets from Internal/sec,
+Windows,TRUE,Hyper-V Virtual Switch Processor,Packets from External/sec,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,IKEv1 Main Mode Negotiation Time,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,AuthIP Main Mode Negotiation Time,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,IKEv1 Quick Mode Negotiation Time,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,AuthIP Quick Mode Negotiation Time,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,Extended Mode Negotiation Time,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,Packets Received/sec,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,Invalid Packets Received/sec,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,Successful Negotiations,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,Successful Negotiations/sec,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,Failed Negotiations,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,Failed Negotiations/sec,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,IKEv2 Main Mode Negotiation Time,
+Windows,FALSE,Generic IKEv1, AuthIP, and IKEv2,IKEv2 Quick Mode Negotiation Time,
+Windows,TRUE,Print Queue,Total Jobs Printed,_Total
+Windows,TRUE,Print Queue,Bytes Printed/sec,_Total
+Windows,TRUE,Print Queue,Total Pages Printed,_Total
+Windows,TRUE,Print Queue,Jobs,_Total
+Windows,TRUE,Print Queue,References,_Total
+Windows,TRUE,Print Queue,Max References,_Total
+Windows,TRUE,Print Queue,Jobs Spooling,_Total
+Windows,TRUE,Print Queue,Max Jobs Spooling,_Total
+Windows,TRUE,Print Queue,Out of Paper Errors,_Total
+Windows,TRUE,Print Queue,Not Ready Errors,_Total
+Windows,TRUE,Print Queue,Job Errors,_Total
+Windows,TRUE,Print Queue,Enumerate Network Printer Calls,_Total
+Windows,TRUE,Print Queue,Add Network Printer Calls,_Total
+Windows,TRUE,LogicalDisk,% Free Space,_Total
+Windows,TRUE,LogicalDisk,Free Megabytes,_Total
+Windows,TRUE,LogicalDisk,Current Disk Queue Length,_Total
+Windows,TRUE,LogicalDisk,% Disk Time,_Total
+Windows,TRUE,LogicalDisk,Avg. Disk Queue Length,_Total
+Windows,TRUE,LogicalDisk,% Disk Read Time,_Total
+Windows,TRUE,LogicalDisk,Avg. Disk Read Queue Length,_Total
+Windows,TRUE,LogicalDisk,% Disk Write Time,_Total
+Windows,TRUE,LogicalDisk,Avg. Disk Write Queue Length,_Total
+Windows,TRUE,LogicalDisk,Avg. Disk sec/Transfer,_Total
+Windows,TRUE,LogicalDisk,Avg. Disk sec/Read,_Total
+Windows,TRUE,LogicalDisk,Avg. Disk sec/Write,_Total
+Windows,TRUE,LogicalDisk,Disk Transfers/sec,_Total
+Windows,TRUE,LogicalDisk,Disk Reads/sec,_Total
+Windows,TRUE,LogicalDisk,Disk Writes/sec,_Total
+Windows,TRUE,LogicalDisk,Disk Bytes/sec,_Total
+Windows,TRUE,LogicalDisk,Disk Read Bytes/sec,_Total
+Windows,TRUE,LogicalDisk,Disk Write Bytes/sec,_Total
+Windows,TRUE,LogicalDisk,Avg. Disk Bytes/Transfer,_Total
+Windows,TRUE,LogicalDisk,Avg. Disk Bytes/Read,_Total
+Windows,TRUE,LogicalDisk,Avg. Disk Bytes/Write,_Total
+Windows,TRUE,LogicalDisk,% Idle Time,_Total
+Windows,TRUE,LogicalDisk,Split IO/Sec,_Total
+Windows,FALSE,Microsoft Winsock BSP,Dropped Datagrams/sec,
+Windows,FALSE,Microsoft Winsock BSP,Dropped Datagrams,
+Windows,FALSE,Microsoft Winsock BSP,Rejected Connections/sec,
+Windows,FALSE,Microsoft Winsock BSP,Rejected Connections,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Buffer Node,Database pages,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Buffer Node,Page life expectancy,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Buffer Node,Local node page lookups/sec,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Buffer Node,Remote node page lookups/sec,
+Windows,FALSE,IPsec IKEv2 IPv6,Active Main Mode SAs,
+Windows,FALSE,IPsec IKEv2 IPv6,Pending Main Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv6,Main Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv6,Main Mode Negotiations/sec,
+Windows,FALSE,IPsec IKEv2 IPv6,Successful Main Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv6,Successful Main Mode Negotiations/sec,
+Windows,FALSE,IPsec IKEv2 IPv6,Failed Main Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv6,Failed Main Mode Negotiations/sec,
+Windows,FALSE,IPsec IKEv2 IPv6,Main Mode Negotiation Requests Received,
+Windows,FALSE,IPsec IKEv2 IPv6,Main Mode Negotiation Requests Received/sec,
+Windows,FALSE,IPsec IKEv2 IPv6,Active Quick Mode SAs,
+Windows,FALSE,IPsec IKEv2 IPv6,Pending Quick Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv6,Quick Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv6,Quick Mode Negotiations/sec,
+Windows,FALSE,IPsec IKEv2 IPv6,Successful Quick Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv6,Successful Quick Mode Negotiations/sec,
+Windows,FALSE,IPsec IKEv2 IPv6,Failed Quick Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv6,Failed Quick Mode Negotiations/sec,
+MSSQL,TRUE,SQL Server 2016 XTP IO Governor,Log Blocks/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP IO Governor,Io Issued/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP IO Governor,Stale Rate Object Waits/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP IO Governor,Insufficient Credits Waits/sec,_Total
+MSSQL,TRUE,SQL Server 2016 XTP IO Governor,Missed Credit Slots,_Total
+MSSQL,TRUE,SQL Server 2016 XTP IO Governor,Total Rate Objects Published,_Total
+Windows,FALSE,IPsec IKEv2 IPv4,Active Main Mode SAs,
+Windows,FALSE,IPsec IKEv2 IPv4,Pending Main Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv4,Main Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv4,Main Mode Negotiations/sec,
+Windows,FALSE,IPsec IKEv2 IPv4,Successful Main Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv4,Successful Main Mode Negotiations/sec,
+Windows,FALSE,IPsec IKEv2 IPv4,Failed Main Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv4,Failed Main Mode Negotiations/sec,
+Windows,FALSE,IPsec IKEv2 IPv4,Main Mode Negotiation Requests Received,
+Windows,FALSE,IPsec IKEv2 IPv4,Main Mode Negotiation Requests Received/sec,
+Windows,FALSE,IPsec IKEv2 IPv4,Active Quick Mode SAs,
+Windows,FALSE,IPsec IKEv2 IPv4,Pending Quick Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv4,Quick Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv4,Quick Mode Negotiations/sec,
+Windows,FALSE,IPsec IKEv2 IPv4,Successful Quick Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv4,Successful Quick Mode Negotiations/sec,
+Windows,FALSE,IPsec IKEv2 IPv4,Failed Quick Mode Negotiations,
+Windows,FALSE,IPsec IKEv2 IPv4,Failed Quick Mode Negotiations/sec,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Broker Activation,Tasks Started/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Broker Activation,Tasks Running,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Broker Activation,Tasks Aborted/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Broker Activation,Task Limit Reached/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Broker Activation,Task Limit Reached,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Broker Activation,Stored Procedures Invoked/sec,_Total
+Windows,FALSE,RAS Total,Bytes Transmitted,
+Windows,FALSE,RAS Total,Bytes Received,
+Windows,FALSE,RAS Total,Frames Transmitted,
+Windows,FALSE,RAS Total,Frames Received,
+Windows,FALSE,RAS Total,Percent Compression Out,
+Windows,FALSE,RAS Total,Percent Compression In,
+Windows,FALSE,RAS Total,CRC Errors,
+Windows,FALSE,RAS Total,Timeout Errors,
+Windows,FALSE,RAS Total,Serial Overrun Errors,
+Windows,FALSE,RAS Total,Alignment Errors,
+Windows,FALSE,RAS Total,Buffer Overrun Errors,
+Windows,FALSE,RAS Total,Total Errors,
+Windows,FALSE,RAS Total,Bytes Transmitted/Sec,
+Windows,FALSE,RAS Total,Bytes Received/Sec,
+Windows,FALSE,RAS Total,Frames Transmitted/Sec,
+Windows,FALSE,RAS Total,Frames Received/Sec,
+Windows,FALSE,RAS Total,Total Errors/Sec,
+Windows,FALSE,RAS Total,Total Connections,
+Windows,FALSE,BranchCache,Retrieval: Bytes from server,
+Windows,FALSE,BranchCache,Retrieval: Bytes from cache,
+Windows,FALSE,BranchCache,Retrieval: Bytes served,
+Windows,FALSE,BranchCache,Discovery: Weighted average discovery time,
+Windows,FALSE,BranchCache,SMB: Bytes from cache,
+Windows,FALSE,BranchCache,SMB: Bytes from server,
+Windows,FALSE,BranchCache,BITS: Bytes from cache,
+Windows,FALSE,BranchCache,BITS: Bytes from server,
+Windows,FALSE,BranchCache,WININET: Bytes from cache,
+Windows,FALSE,BranchCache,WININET: Bytes from server,
+Windows,FALSE,BranchCache,WINHTTP: Bytes from cache,
+Windows,FALSE,BranchCache,WINHTTP: Bytes from server,
+Windows,FALSE,BranchCache,OTHER: Bytes from cache,
+Windows,FALSE,BranchCache,OTHER: Bytes from server,
+Windows,FALSE,BranchCache,Discovery: Attempted discoveries,
+Windows,FALSE,BranchCache,Local Cache: Cache complete file segments,
+Windows,FALSE,BranchCache,Local Cache: Cache partial file segments,
+Windows,FALSE,BranchCache,Hosted Cache: Client file segment offers made,
+Windows,FALSE,BranchCache,Retrieval: Average branch rate,
+Windows,FALSE,BranchCache,Discovery: Successful discoveries,
+Windows,FALSE,BranchCache,Hosted Cache: Segment offers queue size,
+Windows,FALSE,BranchCache,Publication Cache: Published contents,
+Windows,FALSE,BranchCache,Local Cache: Average access time,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Availability Replica,Bytes Sent to Replica/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Availability Replica,Sends to Replica/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Availability Replica,Bytes Sent to Transport/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Availability Replica,Sends to Transport/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Availability Replica,Bytes Received from Replica/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Availability Replica,Receives from Replica/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Availability Replica,Flow Control Time (ms/sec),_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Availability Replica,Flow Control/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Availability Replica,Resent Messages/sec,_Total
+Windows,FALSE,WinNAT ICMP,NumberOfSessions,
+Windows,FALSE,WinNAT ICMP,NumberOfBindings,
+Windows,FALSE,WinNAT ICMP,NumIntToExtTranslations,
+Windows,FALSE,WinNAT ICMP,NumExtToIntTranslations,
+Windows,FALSE,WinNAT ICMP,NumPacketsDropped,
+Windows,FALSE,WinNAT ICMP,NumSessionsTimedOut,
+Windows,FALSE,Telephony,Lines,
+Windows,FALSE,Telephony,Telephone Devices,
+Windows,FALSE,Telephony,Active Lines,
+Windows,FALSE,Telephony,Active Telephones,
+Windows,FALSE,Telephony,Outgoing Calls/sec,
+Windows,FALSE,Telephony,Incoming Calls/sec,
+Windows,FALSE,Telephony,Client Apps,
+Windows,FALSE,Telephony,Current Outgoing Calls,
+Windows,FALSE,Telephony,Current Incoming Calls,
+Windows,FALSE,ICMPv6,Messages/sec,
+Windows,FALSE,ICMPv6,Messages Received/sec,
+Windows,FALSE,ICMPv6,Messages Received Errors,
+Windows,FALSE,ICMPv6,Received Dest. Unreachable,
+Windows,FALSE,ICMPv6,Received Packet Too Big,
+Windows,FALSE,ICMPv6,Received Time Exceeded,
+Windows,FALSE,ICMPv6,Received Parameter Problem,
+Windows,FALSE,ICMPv6,Received Echo/sec,
+Windows,FALSE,ICMPv6,Received Echo Reply/sec,
+Windows,FALSE,ICMPv6,Received Membership Query,
+Windows,FALSE,ICMPv6,Received Membership Report,
+Windows,FALSE,ICMPv6,Received Membership Reduction,
+Windows,FALSE,ICMPv6,Received Router Solicit,
+Windows,FALSE,ICMPv6,Received Router Advert,
+Windows,FALSE,ICMPv6,Received Neighbor Solicit,
+Windows,FALSE,ICMPv6,Received Neighbor Advert,
+Windows,FALSE,ICMPv6,Received Redirect/sec,
+Windows,FALSE,ICMPv6,Messages Sent/sec,
+Windows,FALSE,ICMPv6,Messages Outbound Errors,
+Windows,FALSE,ICMPv6,Sent Destination Unreachable,
+Windows,FALSE,ICMPv6,Sent Packet Too Big,
+Windows,FALSE,ICMPv6,Sent Time Exceeded,
+Windows,FALSE,ICMPv6,Sent Parameter Problem,
+Windows,FALSE,ICMPv6,Sent Echo/sec,
+Windows,FALSE,ICMPv6,Sent Echo Reply/sec,
+Windows,FALSE,ICMPv6,Sent Membership Query,
+Windows,FALSE,ICMPv6,Sent Membership Report,
+Windows,FALSE,ICMPv6,Sent Membership Reduction,
+Windows,FALSE,ICMPv6,Sent Router Solicit,
+Windows,FALSE,ICMPv6,Sent Router Advert,
+Windows,FALSE,ICMPv6,Sent Neighbor Solicit,
+Windows,FALSE,ICMPv6,Sent Neighbor Advert,
+Windows,FALSE,ICMPv6,Sent Redirect/sec,
+Windows,FALSE,RemoteFX Synth3D VSC VM Device,Number of created VMT channels,
+Windows,FALSE,RemoteFX Synth3D VSC VM Device,Number of waiting VMT channels,
+Windows,FALSE,RemoteFX Synth3D VSC VM Device,Number of connected VMT channels,
+Windows,FALSE,RemoteFX Synth3D VSC VM Device,Number of disconnected VMT channels,
+Windows,FALSE,RemoteFX Synth3D VSC VM Device,Total number of created VMT channels,
+Windows,FALSE,RemoteFX Synth3D VSC VM Device,Number of RDVGM restarted notifications,
+Windows,FALSE,Memory,Page Faults/sec,
+Windows,FALSE,Memory,Available Bytes,
+Windows,FALSE,Memory,Committed Bytes,
+Windows,FALSE,Memory,Commit Limit,
+Windows,FALSE,Memory,Write Copies/sec,
+Windows,FALSE,Memory,Transition Faults/sec,
+Windows,FALSE,Memory,Cache Faults/sec,
+Windows,FALSE,Memory,Demand Zero Faults/sec,
+Windows,FALSE,Memory,Pages/sec,
+Windows,FALSE,Memory,Pages Input/sec,
+Windows,FALSE,Memory,Page Reads/sec,
+Windows,FALSE,Memory,Pages Output/sec,
+Windows,FALSE,Memory,Pool Paged Bytes,
+Windows,FALSE,Memory,Pool Nonpaged Bytes,
+Windows,FALSE,Memory,Page Writes/sec,
+Windows,FALSE,Memory,Pool Paged Allocs,
+Windows,FALSE,Memory,Pool Nonpaged Allocs,
+Windows,FALSE,Memory,Free System Page Table Entries,
+Windows,FALSE,Memory,Cache Bytes,
+Windows,FALSE,Memory,Cache Bytes Peak,
+Windows,FALSE,Memory,Pool Paged Resident Bytes,
+Windows,FALSE,Memory,System Code Total Bytes,
+Windows,FALSE,Memory,System Code Resident Bytes,
+Windows,FALSE,Memory,System Driver Total Bytes,
+Windows,FALSE,Memory,System Driver Resident Bytes,
+Windows,FALSE,Memory,System Cache Resident Bytes,
+Windows,FALSE,Memory,% Committed Bytes In Use,
+Windows,FALSE,Memory,Available KBytes,
+Windows,FALSE,Memory,Available MBytes,
+Windows,FALSE,Memory,Transition Pages RePurposed/sec,
+Windows,FALSE,Memory,Free & Zero Page List Bytes,
+Windows,FALSE,Memory,Modified Page List Bytes,
+Windows,FALSE,Memory,Standby Cache Reserve Bytes,
+Windows,FALSE,Memory,Standby Cache Normal Priority Bytes,
+Windows,FALSE,Memory,Standby Cache Core Bytes,
+Windows,FALSE,Memory,Long-Term Average Standby Cache Lifetime (s),
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Virtual Processors,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Virtual TLB Pages,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Address Spaces,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Deposited Pages,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,GPA Pages,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,GPA Space Modifications/sec,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Virtual TLB Flush Entires/sec,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Recommended Virtual TLB Size,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,4K GPA pages,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,2M GPA pages,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,1G GPA pages,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,4K device pages,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,2M device pages,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,1G device pages,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Attached Devices,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Device Interrupt Mappings,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,I/O TLB Flushes/sec,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,I/O TLB Flush Cost,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Device Interrupt Errors,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Device DMA Errors,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Device Interrupt Throttle Events,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Skipped Timer Ticks,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Nested TLB Size,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Recommended Nested TLB Size,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Nested TLB Free List Size,_Total
+Windows,TRUE,Hyper-V Hypervisor Root Partition,Nested TLB Trimmed Pages/sec,_Total
+Windows,FALSE,RAS,Total Clients,
+Windows,FALSE,RAS,Max Clients,
+Windows,FALSE,RAS,Failed Authentications,
+Windows,FALSE,RAS,Bytes Received By Disconnected Clients,
+Windows,FALSE,RAS,Bytes Transmitted By Disconnected Clients,
+Windows,TRUE,Network Adapter,Bytes Total/sec,
+Windows,TRUE,Network Adapter,Packets/sec,
+Windows,TRUE,Network Adapter,Packets Received/sec,
+Windows,TRUE,Network Adapter,Packets Sent/sec,
+Windows,TRUE,Network Adapter,Current Bandwidth,
+Windows,TRUE,Network Adapter,Bytes Received/sec,
+Windows,TRUE,Network Adapter,Packets Received Unicast/sec,
+Windows,TRUE,Network Adapter,Packets Received Non-Unicast/sec,
+Windows,TRUE,Network Adapter,Packets Received Discarded,
+Windows,TRUE,Network Adapter,Packets Received Errors,
+Windows,TRUE,Network Adapter,Packets Received Unknown,
+Windows,TRUE,Network Adapter,Bytes Sent/sec,
+Windows,TRUE,Network Adapter,Packets Sent Unicast/sec,
+Windows,TRUE,Network Adapter,Packets Sent Non-Unicast/sec,
+Windows,TRUE,Network Adapter,Packets Outbound Discarded,
+Windows,TRUE,Network Adapter,Packets Outbound Errors,
+Windows,TRUE,Network Adapter,Output Queue Length,
+Windows,TRUE,Network Adapter,Offloaded Connections,
+Windows,TRUE,Network Adapter,TCP Active RSC Connections,
+Windows,TRUE,Network Adapter,TCP RSC Coalesced Packets/sec,
+Windows,TRUE,Network Adapter,TCP RSC Exceptions/sec,
+Windows,TRUE,Network Adapter,TCP RSC Average Packet Size,
+Windows,FALSE,MSMQ Service,Incoming Messages/sec,
+Windows,FALSE,MSMQ Service,Incoming Multicast Sessions,
+Windows,FALSE,MSMQ Service,IP Sessions,
+Windows,FALSE,MSMQ Service,MSMQ Incoming Messages,
+Windows,FALSE,MSMQ Service,MSMQ Outgoing Messages,
+Windows,FALSE,MSMQ Service,Outgoing HTTP Sessions,
+Windows,FALSE,MSMQ Service,Outgoing Messages/sec,
+Windows,FALSE,MSMQ Service,Outgoing Multicast Sessions,
+Windows,FALSE,MSMQ Service,Sessions,
+Windows,FALSE,MSMQ Service,Total bytes in all queues,
+Windows,FALSE,MSMQ Service,Total messages in all queues,
+Windows,TRUE,DNS64 Global,AAAA queries - Successful,
+Windows,TRUE,DNS64 Global,AAAA queries - Failed,
+Windows,TRUE,DNS64 Global,IP6.ARPA queries - Matched,
+Windows,TRUE,DNS64 Global,Other queries - Successful,
+Windows,TRUE,DNS64 Global,Other queries - Failed,
+Windows,TRUE,DNS64 Global,AAAA - Synthesized records,
+Windows,TRUE,Hyper-V Dynamic Memory Balancer,Average Pressure,
+Windows,TRUE,Hyper-V Dynamic Memory Balancer,Available Memory,
+Windows,TRUE,Hyper-V Dynamic Memory Balancer,System Current Pressure,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:CLR,CLR Execution,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=000000ms & <000001ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=000001ms & <000002ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=000002ms & <000005ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=000005ms & <000010ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=000010ms & <000020ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=000020ms & <000050ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=000050ms & <000100ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=000100ms & <000200ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=000200ms & <000500ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=000500ms & <001000ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=001000ms & <002000ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=002000ms & <005000ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=005000ms & <010000ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=010000ms & <020000ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=020000ms & <050000ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=050000ms & <100000ms,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Batch Resp Statistics,Batches >=100000ms,
+Windows,FALSE,Redirector,Bytes Total/sec,
+Windows,FALSE,Redirector,File Data Operations/sec,
+Windows,FALSE,Redirector,Packets/sec,
+Windows,FALSE,Redirector,Bytes Received/sec,
+Windows,FALSE,Redirector,Packets Received/sec,
+Windows,FALSE,Redirector,Read Bytes Paging/sec,
+Windows,FALSE,Redirector,Read Bytes Non-Paging/sec,
+Windows,FALSE,Redirector,Read Bytes Cache/sec,
+Windows,FALSE,Redirector,Read Bytes Network/sec,
+Windows,FALSE,Redirector,Bytes Transmitted/sec,
+Windows,FALSE,Redirector,Packets Transmitted/sec,
+Windows,FALSE,Redirector,Write Bytes Paging/sec,
+Windows,FALSE,Redirector,Write Bytes Non-Paging/sec,
+Windows,FALSE,Redirector,Write Bytes Cache/sec,
+Windows,FALSE,Redirector,Write Bytes Network/sec,
+Windows,FALSE,Redirector,File Read Operations/sec,
+Windows,FALSE,Redirector,Read Operations Random/sec,
+Windows,FALSE,Redirector,Read Packets/sec,
+Windows,FALSE,Redirector,Reads Large/sec,
+Windows,FALSE,Redirector,Read Packets Small/sec,
+Windows,FALSE,Redirector,File Write Operations/sec,
+Windows,FALSE,Redirector,Write Operations Random/sec,
+Windows,FALSE,Redirector,Write Packets/sec,
+Windows,FALSE,Redirector,Writes Large/sec,
+Windows,FALSE,Redirector,Write Packets Small/sec,
+Windows,FALSE,Redirector,Reads Denied/sec,
+Windows,FALSE,Redirector,Writes Denied/sec,
+Windows,FALSE,Redirector,Network Errors/sec,
+Windows,FALSE,Redirector,Server Sessions,
+Windows,FALSE,Redirector,Server Reconnects,
+Windows,FALSE,Redirector,Connects Core,
+Windows,FALSE,Redirector,Connects Lan Manager 2.0,
+Windows,FALSE,Redirector,Connects Lan Manager 2.1,
+Windows,FALSE,Redirector,Connects Windows NT,
+Windows,FALSE,Redirector,Server Disconnects,
+Windows,FALSE,Redirector,Server Sessions Hung,
+Windows,FALSE,Redirector,Current Commands,
+Windows,FALSE,RemoteFX Synth3D VSP,Number of created VM devices,
+Windows,FALSE,SMB Server,Read Bytes/sec,
+Windows,FALSE,SMB Server,Read Requests/sec,
+Windows,FALSE,SMB Server,Write Bytes/sec,
+Windows,FALSE,SMB Server,Write Requests/sec,
+Windows,FALSE,SMB Server,Send Bytes/sec,
+Windows,FALSE,SMB Server,Receive Bytes/sec,
+Windows,TRUE,RemoteFX Root GPU Management,VRAM: Available MB per GPU,
+Windows,TRUE,RemoteFX Root GPU Management,VRAM: Reserved  % per GPU,
+Windows,TRUE,RemoteFX Root GPU Management,Resources: VMs running RemoteFX,
+Windows,TRUE,Event Tracing for Windows Session,Buffer Memory Usage -- Paged Pool,
+Windows,TRUE,Event Tracing for Windows Session,Buffer Memory Usage -- Non-Paged Pool,
+Windows,TRUE,Event Tracing for Windows Session,Events Logged per sec,
+Windows,TRUE,Event Tracing for Windows Session,Events Lost,
+Windows,TRUE,Event Tracing for Windows Session,Number of Real-Time Consumers,
+Windows,FALSE,Fax Service,Total minutes sending and receiving,
+Windows,FALSE,Fax Service,Total pages,
+Windows,FALSE,Fax Service,Total faxes sent and received,
+Windows,FALSE,Fax Service,Total bytes,
+Windows,FALSE,Fax Service,Failed faxes transmissions,
+Windows,FALSE,Fax Service,Failed outgoing connections,
+Windows,FALSE,Fax Service,Minutes sending,
+Windows,FALSE,Fax Service,Pages sent,
+Windows,FALSE,Fax Service,Faxes sent,
+Windows,FALSE,Fax Service,Bytes sent,
+Windows,FALSE,Fax Service,Failed receptions,
+Windows,FALSE,Fax Service,Minutes receiving,
+Windows,FALSE,Fax Service,Received pages,
+Windows,FALSE,Fax Service,Received faxes,
+Windows,FALSE,Fax Service,Bytes received,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Cursor Manager Total,Cursor conversion rate,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Cursor Manager Total,Async population count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Cursor Manager Total,Cursor flushes,
+Windows,TRUE,Hyper-V VM Vid Numa Node,ProcessorCount,
+Windows,TRUE,Hyper-V VM Vid Numa Node,PageCount,
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Locks,Lock Requests/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Locks,Lock Timeouts/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Locks,Number of Deadlocks/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Locks,Lock Waits/sec,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Locks,Lock Wait Time (ms),_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Locks,Average Wait Time (ms),_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Locks,Average Wait Time Base,_Total
+MSSQL,TRUE,MSSQL$SQLEXPRESS:Locks,Lock Timeouts (timeout > 0)/sec,_Total
+Windows,TRUE,BitLocker,Min Read Split Size,
+Windows,TRUE,BitLocker,Max Read Split Size,
+Windows,TRUE,BitLocker,Min Write Split Size,
+Windows,TRUE,BitLocker,Max Write Split Size,
+Windows,TRUE,BitLocker,Read Requests/sec,
+Windows,TRUE,BitLocker,Read Subrequests/sec,
+Windows,TRUE,BitLocker,Write Requests/sec,
+Windows,TRUE,BitLocker,Write Subrequests/sec,
+Windows,TRUE,SMB Server Shares,Received Bytes/sec,_Total
+Windows,TRUE,SMB Server Shares,Requests/sec,_Total
+Windows,TRUE,SMB Server Shares,Tree Connect Count,_Total
+Windows,TRUE,SMB Server Shares,Current Open File Count,_Total
+Windows,TRUE,SMB Server Shares,Sent Bytes/sec,_Total
+Windows,TRUE,SMB Server Shares,Transferred Bytes/sec,_Total
+Windows,TRUE,SMB Server Shares,Current Pending Requests,_Total
+Windows,TRUE,SMB Server Shares,Avg. sec/Request,_Total
+Windows,TRUE,SMB Server Shares,Write Requests/sec,_Total
+Windows,TRUE,SMB Server Shares,Avg. sec/Write,_Total
+Windows,TRUE,SMB Server Shares,Write Bytes/sec,_Total
+Windows,TRUE,SMB Server Shares,Read Requests/sec,_Total
+Windows,TRUE,SMB Server Shares,Avg. sec/Read,_Total
+Windows,TRUE,SMB Server Shares,Read Bytes/sec,_Total
+Windows,TRUE,SMB Server Shares,Total File Open Count,_Total
+Windows,TRUE,SMB Server Shares,Files Opened/sec,_Total
+Windows,TRUE,SMB Server Shares,Current Durable Open File Count,_Total
+Windows,TRUE,SMB Server Shares,Total Durable Handle Reopen Count,_Total
+Windows,TRUE,SMB Server Shares,Total Failed Durable Handle Reopen Count,_Total
+Windows,TRUE,SMB Server Shares,% Resilient Handles,_Total
+Windows,TRUE,SMB Server Shares,Total Resilient Handle Reopen Count,_Total
+Windows,TRUE,SMB Server Shares,Total Failed Resilient Handle Reopen Count,_Total
+Windows,TRUE,SMB Server Shares,% Persistent Handles,_Total
+Windows,TRUE,SMB Server Shares,Total Persistent Handle Reopen Count,_Total
+Windows,TRUE,SMB Server Shares,Total Failed Persistent Handle Reopen Count,_Total
+Windows,TRUE,SMB Server Shares,Metadata Requests/sec,_Total
+Windows,TRUE,SMB Server Shares,Avg. sec/Data Request,_Total
+Windows,TRUE,SMB Server Shares,Avg. Data Bytes/Request,_Total
+Windows,TRUE,SMB Server Shares,Avg. Bytes/Read,_Total
+Windows,TRUE,SMB Server Shares,Avg. Bytes/Write,_Total
+Windows,TRUE,SMB Server Shares,Avg. Read Queue Length,_Total
+Windows,TRUE,SMB Server Shares,Avg. Write Queue Length,_Total
+Windows,TRUE,SMB Server Shares,Avg. Data Queue Length,_Total
+Windows,TRUE,SMB Server Shares,Data Bytes/sec,_Total
+Windows,TRUE,SMB Server Shares,Data Requests/sec,_Total
+Windows,TRUE,SMB Server Shares,Current Data Queue Length,_Total
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Full Scans/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Range Scans/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Probe Scans/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Scan Point Revalidations/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Workfiles Created/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Worktables Created/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Worktables From Cache Ratio,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Worktables From Cache Base,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Forwarded Records/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Skipped Ghosted Records/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Index Searches/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,FreeSpace Scans/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,FreeSpace Page Fetches/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Pages Allocated/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Extents Allocated/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Mixed page allocations/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Extent Deallocations/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Page Deallocations/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Page Splits/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Table Lock Escalations/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Deferred Dropped rowsets,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Dropped rowset cleanups/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Dropped rowsets skipped/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Deferred dropped AUs,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,AU cleanups/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,AU cleanup batches/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Failed AU cleanup batches/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Used tree page cookie,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Failed tree page cookie,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Used leaf page cookie,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Failed leaf page cookie,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,LobSS Provider Create Count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,LobSS Provider Destroy Count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,LobSS Provider Truncation Count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,LobHandle Create Count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,LobHandle Destroy Count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,By-reference Lob Create Count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,By-reference Lob Use Count,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Count Push Off Row,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Count Pull In Row,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Count Lob Readahead,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Page compression attempts/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,Pages compressed/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:Access Methods,InSysXact waits/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,FileTable db operations/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,FileTable table operations/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,FileTable item get requests/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Avg time to get FileTable item,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Time to get FileTable item BASE,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,FileTable item delete reqs/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Avg time delete FileTable item,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Time delete FileTable item BASE,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,FileTable item update reqs/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Avg time update FileTable item,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Time update FileTable item BASE,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,FileTable item move reqs/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Avg time move FileTable item,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Time move FileTable item BASE,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,FileTable item rename reqs/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Avg time rename FileTable item,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Time rename FileTable item BASE,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,FileTable enumeration reqs/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Avg time FileTable enumeration,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Time FileTable enumeration BASE,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,FileTable file I/O requests/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Avg time per file I/O request,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Time per file I/O request BASE,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,FileTable file I/O response/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Avg time per file I/O response,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Time per file I/O response BASE,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,FileTable kill handle ops/sec,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Avg time FileTable handle kill,
+MSSQL,FALSE,MSSQL$SQLEXPRESS:FileTable,Time FileTable handle kill BASE,
+Windows,FALSE,Event Tracing for Windows,Total Number of Distinct Enabled Providers,
+Windows,FALSE,Event Tracing for Windows,Total Number of Distinct Pre-Enabled Providers,
+Windows,FALSE,Event Tracing for Windows,Total Number of Distinct Disabled Providers,
+Windows,FALSE,Event Tracing for Windows,Total Number of Active Sessions,
+Windows,FALSE,Event Tracing for Windows,Total Memory Usage --- Paged Pool,
+Windows,FALSE,Event Tracing for Windows,Total Memory Usage --- Non-Paged Pool,
+Windows,TRUE,Thread,Context Switches/sec,_Total
+Windows,TRUE,Thread,% Processor Time,_Total

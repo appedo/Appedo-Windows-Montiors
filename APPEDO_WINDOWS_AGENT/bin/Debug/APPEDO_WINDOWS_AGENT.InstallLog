@@ -1,0 +1,168 @@
+﻿Installing assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Installing service APPEDO_WINDOWS_AGENT_SERVICE...
+Creating EventLog source APPEDO_WINDOWS_AGENT_SERVICE in log Application...
+Rolling back assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Restoring event log to previous state for source APPEDO_WINDOWS_AGENT_SERVICE.
+Installing assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Installing service APPEDO_WINDOWS_AGENT_SERVICE...
+Creating EventLog source APPEDO_WINDOWS_AGENT_SERVICE in log Application...
+Rolling back assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Restoring event log to previous state for source APPEDO_WINDOWS_AGENT_SERVICE.
+Installing assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Installing service APPEDO_WINDOWS_AGENT_SERVICE...
+Creating EventLog source APPEDO_WINDOWS_AGENT_SERVICE in log Application...
+Rolling back assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Restoring event log to previous state for source APPEDO_WINDOWS_AGENT_SERVICE.
+Uninstalling assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Removing EventLog source APPEDO_WINDOWS_AGENT_SERVICE.
+Warning: The source APPEDO_WINDOWS_AGENT_SERVICE is not registered on the local machine.
+Service APPEDO_WINDOWS_AGENT_SERVICE is being removed from the system...
+Service APPEDO_WINDOWS_AGENT_SERVICE was successfully removed from the system.
+Attempt to stop service APPEDO_WINDOWS_AGENT_SERVICE.
+Uninstalling assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Removing EventLog source APPEDO_WINDOWS_AGENT_SERVICE.
+Warning: The source APPEDO_WINDOWS_AGENT_SERVICE is not registered on the local machine.
+Service APPEDO_WINDOWS_AGENT_SERVICE is being removed from the system...
+Service APPEDO_WINDOWS_AGENT_SERVICE was successfully removed from the system.
+Attempt to stop service APPEDO_WINDOWS_AGENT_SERVICE.
+Uninstalling assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Removing EventLog source APPEDO_WINDOWS_AGENT_SERVICE.
+Warning: The source APPEDO_WINDOWS_AGENT_SERVICE is not registered on the local machine.
+Service APPEDO_WINDOWS_AGENT_SERVICE is being removed from the system...
+Service APPEDO_WINDOWS_AGENT_SERVICE was successfully removed from the system.
+Attempt to stop service APPEDO_WINDOWS_AGENT_SERVICE.
+Uninstalling assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Removing EventLog source APPEDO_WINDOWS_AGENT_SERVICE.
+Warning: The source APPEDO_WINDOWS_AGENT_SERVICE is not registered on the local machine.
+Service APPEDO_WINDOWS_AGENT_SERVICE is being removed from the system...
+Service APPEDO_WINDOWS_AGENT_SERVICE was successfully removed from the system.
+Attempt to stop service APPEDO_WINDOWS_AGENT_SERVICE.
+Installing assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Installing service APPEDO_WINDOWS_AGENT_SERVICE...
+Creating EventLog source APPEDO_WINDOWS_AGENT_SERVICE in log Application...
+Rolling back assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Restoring event log to previous state for source APPEDO_WINDOWS_AGENT_SERVICE.
+Uninstalling assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Removing EventLog source APPEDO_WINDOWS_AGENT_SERVICE.
+Warning: The source APPEDO_WINDOWS_AGENT_SERVICE is not registered on the local machine.
+Service APPEDO_WINDOWS_AGENT_SERVICE is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Installing service APPEDO_WINDOWS_AGENT_SERVICE...
+Service APPEDO_WINDOWS_AGENT_SERVICE has been successfully installed.
+Creating EventLog source APPEDO_WINDOWS_AGENT_SERVICE in log Application...
+Committing assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Uninstalling assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Removing EventLog source APPEDO_WINDOWS_AGENT_SERVICE.
+Service APPEDO_WINDOWS_AGENT_SERVICE is being removed from the system...
+Service APPEDO_WINDOWS_AGENT_SERVICE was successfully removed from the system.
+Attempt to stop service APPEDO_WINDOWS_AGENT_SERVICE.
+Installing assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Installing service APPEDO_WINDOWS_AGENT_SERVICE...
+Service APPEDO_WINDOWS_AGENT_SERVICE has been successfully installed.
+Creating EventLog source APPEDO_WINDOWS_AGENT_SERVICE in log Application...
+Committing assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Uninstalling assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Removing EventLog source APPEDO_WINDOWS_AGENT_SERVICE.
+Service APPEDO_WINDOWS_AGENT_SERVICE is being removed from the system...
+Service APPEDO_WINDOWS_AGENT_SERVICE was successfully removed from the system.
+Installing assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Installing service APPEDO_WINDOWS_AGENT_SERVICE...
+Service APPEDO_WINDOWS_AGENT_SERVICE has been successfully installed.
+Creating EventLog source APPEDO_WINDOWS_AGENT_SERVICE in log Application...
+Committing assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Uninstalling assembly 'D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.InstallLog
+   assemblypath = D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT.exe
+Removing EventLog source APPEDO_WINDOWS_AGENT_SERVICE.
+Service APPEDO_WINDOWS_AGENT_SERVICE is being removed from the system...
+Service APPEDO_WINDOWS_AGENT_SERVICE was successfully removed from the system.
+Attempt to stop service APPEDO_WINDOWS_AGENT_SERVICE.

@@ -1,0 +1,11 @@
+D:\workspace\Appedo-Windows-Montiors\APPEDO_SLA_WINDOWS_AGENT\bin\Release\sample.vbs
+D:\workspace\Appedo-Windows-Montiors\APPEDO_SLA_WINDOWS_AGENT\bin\Release\APPEDO_SLA_WINDOWS_AGENT.exe.config
+D:\workspace\Appedo-Windows-Montiors\APPEDO_SLA_WINDOWS_AGENT\bin\Release\APPEDO_SLA_WINDOWS_AGENT.exe
+D:\workspace\Appedo-Windows-Montiors\APPEDO_SLA_WINDOWS_AGENT\bin\Release\APPEDO_SLA_WINDOWS_AGENT.pdb
+D:\workspace\Appedo-Windows-Montiors\APPEDO_SLA_WINDOWS_AGENT\bin\Release\AgentCore.dll
+D:\workspace\Appedo-Windows-Montiors\APPEDO_SLA_WINDOWS_AGENT\bin\Release\AgentCore.pdb
+D:\workspace\Appedo-Windows-Montiors\APPEDO_SLA_WINDOWS_AGENT\obj\Release\APPEDO_SLA_WINDOWS_SLAVE.csprojResolveAssemblyReference.cache
+D:\workspace\Appedo-Windows-Montiors\APPEDO_SLA_WINDOWS_AGENT\obj\Release\APPEDO_SLA_WINDOWS_AGENT.Properties.Resources.resources
+D:\workspace\Appedo-Windows-Montiors\APPEDO_SLA_WINDOWS_AGENT\obj\Release\APPEDO_SLA_WINDOWS_SLAVE.csproj.GenerateResource.Cache
+D:\workspace\Appedo-Windows-Montiors\APPEDO_SLA_WINDOWS_AGENT\obj\Release\APPEDO_SLA_WINDOWS_AGENT.exe
+D:\workspace\Appedo-Windows-Montiors\APPEDO_SLA_WINDOWS_AGENT\obj\Release\APPEDO_SLA_WINDOWS_AGENT.pdb

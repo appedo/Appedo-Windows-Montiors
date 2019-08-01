@@ -1,0 +1,352 @@
+2019-07-31T17:13:18.921+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Process:: Counter Name: % Processor Time:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1814
+2019-07-31T17:13:24.049+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Locks:: Counter Name: Lock Timeouts/sec:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:25.717+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Process:: Counter Name: Private Bytes:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1814
+2019-07-31T17:13:27.017+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Locks:: Counter Name: Number of Deadlocks/sec:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:28.383+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Process:: Counter Name: Thread Count:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1814
+2019-07-31T17:13:29.891+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Locks:: Counter Name: Lock Waits/sec:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:31.415+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Process:: Counter Name: ID Process:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1814
+2019-07-31T17:13:32.958+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Locks:: Counter Name: Average Wait Time (ms):: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:34.389+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: % Free Space:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T17:13:35.833+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Latches:: Counter Name: Latch Waits/sec:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:37.416+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: Free Megabytes:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T17:13:39.017+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Latches:: Counter Name: Average Latch Wait Time (ms):: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:40.534+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: Current Disk Queue Length:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T17:13:41.946+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Memory Manager:: Counter Name: Database Cache Memory (KB):: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:43.217+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: % Disk Time:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T17:13:44.588+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Memory Manager:: Counter Name: Free Memory (KB):: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:45.810+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: Avg. Disk sec/Transfer:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T17:13:46.892+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Memory Manager:: Counter Name: Target Server Memory (KB):: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:48.115+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: Disk Transfers/sec:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T17:13:49.335+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:General Statistics:: Counter Name: User Connections:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:50.515+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: Avg. Disk Bytes/Transfer:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T17:13:51.722+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:General Statistics:: Counter Name: HTTP Authenticated Requests:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:53.153+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Memory:: Counter Name: Page Faults/sec:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1830
+2019-07-31T17:13:54.445+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:General Statistics:: Counter Name: Processes blocked:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:55.640+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Memory:: Counter Name: Pages/sec:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1830
+2019-07-31T17:13:56.834+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Databases:: Counter Name: Active Transactions:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:13:58.904+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Memory:: Counter Name: Available MBytes:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1830
+2019-07-31T17:14:01.584+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Databases:: Counter Name: Transactions/sec:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:14:03.489+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Processor:: Counter Name: % Processor Time:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1814
+2019-07-31T17:14:04.936+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Buffer Manager:: Counter Name: Buffer cache hit ratio:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:14:06.120+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: System:: Counter Name: Context Switches/sec:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1830
+2019-07-31T17:14:07.260+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Buffer Manager:: Counter Name: Page life expectancy:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T17:14:09.608+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: System:: Counter Name: Processor Queue Length:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1830
+2019-07-31T20:26:54.512+05:30	Critical	DESKTOP-1UO47BG	ConnectDataBase()	Falied to Connect to DESKTOP-1UO47BG\SQLEXPRESS. Check event log for exact nature of failure. Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=6389; handshake=2677; 	   at System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   at System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at AgentCore.Agent.ConnectDataBase() in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 2743
+2019-07-31T20:27:58.336+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Process:: Counter Name: % Processor Time:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1814
+2019-07-31T20:27:59.812+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Locks:: Counter Name: Lock Timeouts/sec:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:01.222+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Process:: Counter Name: Private Bytes:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1814
+2019-07-31T20:28:02.640+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Locks:: Counter Name: Number of Deadlocks/sec:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:04.224+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Process:: Counter Name: Thread Count:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1814
+2019-07-31T20:28:05.756+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Locks:: Counter Name: Lock Waits/sec:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:06.943+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Process:: Counter Name: ID Process:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1814
+2019-07-31T20:28:08.504+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Locks:: Counter Name: Average Wait Time (ms):: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:09.877+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: % Free Space:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T20:28:11.372+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Latches:: Counter Name: Latch Waits/sec:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:12.771+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: Free Megabytes:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T20:28:13.994+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Latches:: Counter Name: Average Latch Wait Time (ms):: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:15.820+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: Current Disk Queue Length:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T20:28:17.071+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Memory Manager:: Counter Name: Database Cache Memory (KB):: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:18.324+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: % Disk Time:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T20:28:19.904+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Memory Manager:: Counter Name: Free Memory (KB):: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:21.228+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: Avg. Disk sec/Transfer:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T20:28:22.567+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Memory Manager:: Counter Name: Target Server Memory (KB):: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:23.810+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: Disk Transfers/sec:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T20:28:25.064+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:General Statistics:: Counter Name: User Connections:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:26.327+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: LogicalDisk:: Counter Name: Avg. Disk Bytes/Transfer:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String category)
+   at System.Diagnostics.PerformanceCounterLib.GetCategorySample(String machine, String category)
+   at System.Diagnostics.PerformanceCounterCategory.GetCounterInstances(String categoryName, String machineName)
+   at System.Diagnostics.PerformanceCounterCategory.GetInstanceNames()
+   at AgentCore.Agent.setLogicalDiskInstances(String metricName, String counterId) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1973
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1794
+2019-07-31T20:28:27.529+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:General Statistics:: Counter Name: HTTP Authenticated Requests:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:28.950+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Memory:: Counter Name: Page Faults/sec:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1830
+2019-07-31T20:28:30.276+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:General Statistics:: Counter Name: Processes blocked:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:31.496+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Memory:: Counter Name: Pages/sec:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1830
+2019-07-31T20:28:32.724+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Databases:: Counter Name: Active Transactions:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:33.932+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Memory:: Counter Name: Available MBytes:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1830
+2019-07-31T20:28:35.224+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Databases:: Counter Name: Transactions/sec:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:36.467+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: Processor:: Counter Name: % Processor Time:: Instance Name: _Total	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1814
+2019-07-31T20:28:37.698+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Buffer Manager:: Counter Name: Buffer cache hit ratio:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:38.886+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: System:: Counter Name: Context Switches/sec:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1830
+2019-07-31T20:28:40.103+05:30	Warning	DESKTOP-1UO47BG	MSSQLSetCounterThread()	Category: MSSQL$SQLEXPRESS:Buffer Manager:: Counter Name: Page life expectancy:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.
+2019-07-31T20:28:41.297+05:30	Warning	DESKTOP-1UO47BG	WindowsSetCounterThread()	Category: System:: Counter Name: Processor Queue Length:: Instance Name: 	Cannot load Counter Name data because an invalid index '' was read from the registry.   at System.Diagnostics.PerformanceCounterLib.GetStringTable(Boolean isHelp)
+   at System.Diagnostics.PerformanceCounterLib.get_NameTable()
+   at System.Diagnostics.PerformanceCounterLib.get_CategoryTable()
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String category, String counter, Boolean& categoryExists)
+   at System.Diagnostics.PerformanceCounterLib.CounterExists(String machine, String category, String counter)
+   at System.Diagnostics.PerformanceCounter.InitializeImpl()
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName, String instanceName, Boolean readOnly)
+   at System.Diagnostics.PerformanceCounter..ctor(String categoryName, String counterName)
+   at AgentCore.Agent.WindowsSetCounterThread(CountersDetailNew winCounterSet) in D:\2018\workspace\WindowsAgent\Appedo-Windows-Monitors\AgentCore\Agent.cs:line 1830

@@ -1,0 +1,8 @@
+D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\AgentCore.dll
+D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\AgentCore.pdb
+D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\obj\Debug\APPEDO_WINDOWS_AGENT.csprojResolveAssemblyReference.cache
+D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT_v2.exe.config
+D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT_v2.exe
+D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\bin\Debug\APPEDO_WINDOWS_AGENT_v2.pdb
+D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\obj\Debug\APPEDO_WINDOWS_AGENT_v2.exe
+D:\workspace\Appedo-Windows-Montiors\APPEDO_WINDOWS_AGENT\obj\Debug\APPEDO_WINDOWS_AGENT_v2.pdb

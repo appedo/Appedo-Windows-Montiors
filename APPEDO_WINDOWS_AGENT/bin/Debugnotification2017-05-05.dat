@@ -1,0 +1,90 @@
+05-05-2017 10:53:32	DESKTOP-0D5EHEU	 getUUID() -- System UUID : 4C4C4544-004C-5610-804A-B2C04F323332
+05-05-2017 10:53:32	DESKTOP-0D5EHEU	 setAgent() -- NO MSIIS Application Running -- Counters are not collected
+05-05-2017 10:53:32	getAllPerformanceCounter() -- Started
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :ServiceModelOperation 4.0.0.0 :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :WF (System.Workflow) 4.0.0.0 :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :MSMQ Session :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :RemoteFX Synth3D VSP VM Device :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :XHCI CommonBuffer :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :PacketDirect Receive Counters :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :PacketDirect Transmit Counters :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Dynamic Memory VM :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Hypervisor Partition :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :MSSQL$SQLEXPRESS:Replication Dist. :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Network QoS Policy :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Database ==> Instances :: instanceName :_Total::counterName :Pages Converted/sec(378)counters has no valid counter type. 	The Counter layout for the Category specified is invalid, a counter of the type:  AverageCount64, AverageTimer32, CounterMultiTimer, CounterMultiTimerInverse, CounterMultiTimer100Ns, CounterMultiTimer100NsInverse, RawFraction, or SampleFraction has to be immediately followed by any of the base counter types: AverageBase, CounterMultiBase, RawBase or SampleBase.
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Energy Meter :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Virtual Network Adapter :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :RemoteFX Software :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :SQLAgent$SQLEXPRESS:Jobs :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Configuration :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :MSSQL$SQLEXPRESS:Replication Merge :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V VM Save, Snapshot, and Restore :: instanceName :  has no instances available 	
+05-05-2017 10:53:35	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :ServiceModelOperation 3.0.0.0 :: instanceName :  has no instances available 	
+05-05-2017 10:53:36	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Hypervisor Virtual Processor :: instanceName :  has no instances available 	
+05-05-2017 10:53:36	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :WinNAT Instance :: instanceName :  has no instances available 	
+05-05-2017 10:53:36	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :MSMQ Outgoing Multicast Session :: instanceName :  has no instances available 	
+05-05-2017 10:53:36	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Job Object Details :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Storage Spaces Tier :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Virtual IDE Controller (Emulated) :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Virtual Switch Port :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Netlogon :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :PacketDirect EC Utilization :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Job Object :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Virtual Storage Device :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V VM Vid Partition :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :PacketDirect Receive Filters :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Virtual Network Adapter VRSS :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :ServiceModelEndpoint 4.0.0.0 :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :AppV Client Streamed Data Percentage :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :SQL Server 2016 XTP Databases :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Storage Spaces Virtual Disk :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Virtual Machine Bus Provider Pipes :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :WSMan Quota Statistics :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Windows Media Player Metadata :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :RemoteFX Network :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :RemoteFX Graphics :: instanceName :  has no instances available 	
+05-05-2017 10:53:37	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Pacer Flow :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Distributed Routing Table :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Replica VM :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Legacy Network Adapter :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Virtual Machine Bus Pipes :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :WorkflowServiceHost 4.0.0.0 :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :PacketDirect Queue Depth :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V VM IO APIC :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :SMB Server Sessions :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :MSSQL$SQLEXPRESS:Replication Logreader :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Worker Virtual Processor :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V VM Virtual Device Pipe IO :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :SQLAgent$SQLEXPRESS:JobSteps :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :ServiceModelEndpoint 3.0.0.0 :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :SQLAgent$SQLEXPRESS:SystemJobs :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :MSSQL$SQLEXPRESS:Database Mirroring :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :MSMQ Incoming Multicast Session :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :RemoteFX Synth3D VSP VM Transport Channel :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :MSSQL$SQLEXPRESS:Replication Agents :: instanceName :  has no instances available 	
+05-05-2017 10:53:38	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :XHCI Interrupter :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Database :: instanceName :::counterName :Pages Converted/sec(440)counters has no valid counter type. 	The Counter layout for the Category specified is invalid, a counter of the type:  AverageCount64, AverageTimer32, CounterMultiTimer, CounterMultiTimerInverse, CounterMultiTimer100Ns, CounterMultiTimer100NsInverse, RawFraction, or SampleFraction has to be immediately followed by any of the base counter types: AverageBase, CounterMultiBase, RawBase or SampleBase.
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V VM worker Process Memory Manager :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Storage Spaces Write Cache :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :MSSQL$SQLEXPRESS:Backup Device :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :XHCI TransferRing :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Windows Workflow Foundation :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :MSSQL$SQLEXPRESS:Replication Snapshot :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Peer Name Resolution Protocol :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :W3SVC_W3WP :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Database ==> TableClasses :: instanceName :::counterName :Record Inserts/sec(148)counters has no valid counter type. 	The Counter layout for the Category specified is invalid, a counter of the type:  AverageCount64, AverageTimer32, CounterMultiTimer, CounterMultiTimerInverse, CounterMultiTimer100Ns, CounterMultiTimer100NsInverse, RawFraction, or SampleFraction has to be immediately followed by any of the base counter types: AverageBase, CounterMultiBase, RawBase or SampleBase.
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V VM Live Migration :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Virtual Network Adapter Drop Reasons :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V VM Remoting :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :WAS_W3WP :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :RemoteFX Synth3D VSC VM Transport Channel :: instanceName :  has no instances available 	
+05-05-2017 10:53:39	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Hyper-V Virtual Switch :: instanceName :  has no instances available 	
+05-05-2017 10:53:40	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :Authorization Manager Applications :: instanceName :  has no instances available 	
+05-05-2017 10:53:40	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- categoryName :PowerShell Workflow :: instanceName :  has no instances available 	
+05-05-2017 10:53:40	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- completed, sending data to server..... 
+05-05-2017 10:53:40	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- MSSQL Data Sent, Received GUID-b7c51363-513a-4b58-a1ea-15568069cb8b
+05-05-2017 10:53:40	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- Windows Data Sent, Received GUID-b7c51363-513a-4b58-a1ea-15568069cb0b
+05-05-2017 10:53:40	DESKTOP-0D5EHEU	 getAllPerformanceCounter() -- Time Taken to complete performance Counter Collection :7738 ms
+05-05-2017 10:53:40	DESKTOP-0D5EHEU	 setAgent() setting the performance counter to global variable 
+05-05-2017 10:53:40	DESKTOP-0D5EHEU	 StartAgent() -- Starting all Agents

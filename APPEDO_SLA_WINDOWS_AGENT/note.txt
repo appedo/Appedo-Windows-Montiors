@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="protocol" value="@PROTOCOL@" />
+    <add key="server" value="@SERVER@" />
+    <add key="port" value="@PORT@" />
+    <add key="path" value="@APPLICATION_NAME@" />
+    <add key="slaveuserid" value="@SLAVEUSERID@" />
+    <add key="slalistenerport" value="8000" />
+    <add key="type" value="slave"/>
+    <add key="frequency" value="20000"/>
+  </appSettings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+  </startup>
+</configuration>
+
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="protocol" value="http" />
+    <add key="server" value="192.168.1.90" />
+    <add key="port" value="8081" />
+    <add key="path" value="appedo_sla_collector" />
+    <add key="slaveuserid" value="ezfDTSE1KfCdijmjXnvW5gQAMPERAGE3DQAMPERAGE3D" />
+    <add key="slalistenerport" value="8889" />
+    <add key="type" value="slave"/>
+    <add key="frequency" value="20000"/>
+  </appSettings>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+  </startup>
+</configuration>

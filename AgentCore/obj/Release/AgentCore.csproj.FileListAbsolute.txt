@@ -1,0 +1,17 @@
+D:\workspace\Appedo-Windows-Montiors\AgentCore\bin\Release\AgentCore.dll.config
+D:\workspace\Appedo-Windows-Montiors\AgentCore\bin\Release\AgentCore.dll
+D:\workspace\Appedo-Windows-Montiors\AgentCore\bin\Release\AgentCore.pdb
+D:\workspace\Appedo-Windows-Montiors\AgentCore\obj\Release\AgentCore.Properties.Resources.resources
+D:\workspace\Appedo-Windows-Montiors\AgentCore\obj\Release\AgentCore.csproj.GenerateResource.Cache
+D:\workspace\Appedo-Windows-Montiors\AgentCore\obj\Release\AgentCore.dll
+D:\workspace\Appedo-Windows-Montiors\AgentCore\obj\Release\AgentCore.pdb
+D:\workspace\Appedo-Windows-Montiors\AgentCore\obj\Release\AgentCore.csprojResolveAssemblyReference.cache
+I:\workspace\Appedo-Windows-Montiors\AgentCore\bin\Release\AgentCore.dll.config
+I:\workspace\Appedo-Windows-Montiors\AgentCore\bin\Release\AgentCore.dll
+I:\workspace\Appedo-Windows-Montiors\AgentCore\bin\Release\AgentCore.pdb
+I:\workspace\Appedo-Windows-Montiors\AgentCore\obj\Release\AgentCore.csprojResolveAssemblyReference.cache
+I:\workspace\Appedo-Windows-Montiors\AgentCore\obj\Release\AgentCore.Properties.Resources.resources
+I:\workspace\Appedo-Windows-Montiors\AgentCore\obj\Release\AgentCore.csproj.GenerateResource.cache
+I:\workspace\Appedo-Windows-Montiors\AgentCore\obj\Release\AgentCore.csproj.CoreCompileInputs.cache
+I:\workspace\Appedo-Windows-Montiors\AgentCore\obj\Release\AgentCore.dll
+I:\workspace\Appedo-Windows-Montiors\AgentCore\obj\Release\AgentCore.pdb

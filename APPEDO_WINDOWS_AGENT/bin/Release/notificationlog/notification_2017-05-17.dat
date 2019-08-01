@@ -1,0 +1,51 @@
+datetime 	 level 	 method 	 information 	 exception
+17-05-2017 16:08:44	 Info 	DESKTOP-0D5EHEU 	 Agent() 	 debug mode is set as True
+17-05-2017 16:08:44	 Info 	DESKTOP-0D5EHEU 	 dataQueueWriteToFile() 	 Thread Started
+17-05-2017 16:08:44	 Info 	DESKTOP-0D5EHEU 	 notifnQWriteToFile() 	 Thread Started
+17-05-2017 16:08:44	 Info 	DESKTOP-0D5EHEU 	 debugQWriteToFile() 	 Thread Started
+17-05-2017 16:08:45	 Info 	DESKTOP-0D5EHEU 	 getUUID() 	 System UUID : 4C4C4544-004C-5610-804A-B2C04F323332
+17-05-2017 16:08:45	 Info 	DESKTOP-0D5EHEU 	 setAgent() 	 MSSQL Exists, hence collecting their Metrics
+17-05-2017 16:08:45	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 MSSQL has 1 instances 
+17-05-2017 16:08:45	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 MSSQL Instance Names are 
+17-05-2017 16:08:45	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 DESKTOP-0D5EHEU\SQLEXPRESS
+17-05-2017 16:08:48	 Info 	DESKTOP-0D5EHEU 	 setAgent() 	 MSIIS applications are not running, hence Metrics are not collected, System will check for availability every 1 hr
+17-05-2017 16:10:57	 Info 	DESKTOP-0D5EHEU 	 Agent() 	 debug mode is set as True
+17-05-2017 16:10:57	 Info 	DESKTOP-0D5EHEU 	 dataQueueWriteToFile() 	 Thread Started
+17-05-2017 16:10:58	 Info 	DESKTOP-0D5EHEU 	 notifnQWriteToFile() 	 Thread Started
+17-05-2017 16:10:58	 Info 	DESKTOP-0D5EHEU 	 debugQWriteToFile() 	 Thread Started
+17-05-2017 17:12:43	 Info 	DESKTOP-0D5EHEU 	 Agent() 	 debug mode is set as True
+17-05-2017 17:12:43	 Info 	DESKTOP-0D5EHEU 	 dataQueueWriteToFile() 	 Thread Started
+17-05-2017 17:12:43	 Info 	DESKTOP-0D5EHEU 	 notifnQWriteToFile() 	 Thread Started
+17-05-2017 17:12:43	 Info 	DESKTOP-0D5EHEU 	 debugQWriteToFile() 	 Thread Started
+17-05-2017 17:12:43	 Info 	DESKTOP-0D5EHEU 	 getUUID() 	 System UUID : 4C4C4544-004C-5610-804A-B2C04F323332
+17-05-2017 17:12:43	 Info 	DESKTOP-0D5EHEU 	 setAgent() 	 MSSQL Exists, hence collecting their Metrics
+17-05-2017 17:12:43	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 MSSQL has 1 instances 
+17-05-2017 17:12:43	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 MSSQL Instance Names are 
+17-05-2017 17:12:43	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 DESKTOP-0D5EHEU\SQLEXPRESS
+17-05-2017 17:12:43	 Info 	DESKTOP-0D5EHEU 	 setAgent() 	 MSIIS applications are not running, hence Metrics are not collected, System will check for availability every 1 hr
+17-05-2017 17:19:54	 Info 	DESKTOP-0D5EHEU 	 Agent() 	 debug mode is set as True
+17-05-2017 17:19:54	 Info 	DESKTOP-0D5EHEU 	 dataQueueWriteToFile() 	 Thread Started
+17-05-2017 17:19:54	 Info 	DESKTOP-0D5EHEU 	 notifnQWriteToFile() 	 Thread Started
+17-05-2017 17:19:54	 Info 	DESKTOP-0D5EHEU 	 debugQWriteToFile() 	 Thread Started
+17-05-2017 17:21:16	 Info 	DESKTOP-0D5EHEU 	 Agent() 	 debug mode is set as True
+17-05-2017 17:21:16	 Info 	DESKTOP-0D5EHEU 	 dataQueueWriteToFile() 	 Thread Started
+17-05-2017 17:21:16	 Info 	DESKTOP-0D5EHEU 	 notifnQWriteToFile() 	 Thread Started
+17-05-2017 17:21:16	 Info 	DESKTOP-0D5EHEU 	 debugQWriteToFile() 	 Thread Started
+17-05-2017 17:21:16	 Info 	DESKTOP-0D5EHEU 	 getUUID() 	 System UUID : 4C4C4544-004C-5610-804A-B2C04F323332
+17-05-2017 17:21:16	 Info 	DESKTOP-0D5EHEU 	 setAgent() 	 MSSQL Exists, hence collecting their Metrics
+17-05-2017 17:21:16	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 MSSQL has 1 instances 
+17-05-2017 17:21:16	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 MSSQL Instance Names are 
+17-05-2017 17:21:16	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 DESKTOP-0D5EHEU\SQLEXPRESS
+17-05-2017 17:21:16	 Info 	DESKTOP-0D5EHEU 	 setAgent() 	 MSIIS applications are not running, hence Metrics are not collected, System will check for availability every 1 hr
+17-05-2017 17:21:22	 Warning 	DESKTOP-0D5EHEU	 setAgent() 	 System information not available, Contact administrator. hence service stopped
+17-05-2017 17:22:45	 Info 	DESKTOP-0D5EHEU 	 Agent() 	 debug mode is set as True
+17-05-2017 17:22:45	 Info 	DESKTOP-0D5EHEU 	 dataQueueWriteToFile() 	 Thread Started
+17-05-2017 17:22:45	 Info 	DESKTOP-0D5EHEU 	 notifnQWriteToFile() 	 Thread Started
+17-05-2017 17:22:45	 Info 	DESKTOP-0D5EHEU 	 debugQWriteToFile() 	 Thread Started
+17-05-2017 17:22:45	 Info 	DESKTOP-0D5EHEU 	 getUUID() 	 System UUID : 4C4C4544-004C-5610-804A-B2C04F323332
+17-05-2017 17:22:45	 Info 	DESKTOP-0D5EHEU 	 setAgent() 	 MSSQL Exists, hence collecting their Metrics
+17-05-2017 17:22:45	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 MSSQL has 1 instances 
+17-05-2017 17:22:45	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 MSSQL Instance Names are 
+17-05-2017 17:22:45	 Info 	DESKTOP-0D5EHEU 	 isMSSQLExists() 	 DESKTOP-0D5EHEU\SQLEXPRESS
+17-05-2017 17:22:45	 Info 	DESKTOP-0D5EHEU 	 setAgent() 	 MSIIS applications are not running, hence Metrics are not collected, System will check for availability every 1 hr
+17-05-2017 17:22:49	 Warning 	DESKTOP-0D5EHEU	 setAgent() 	 System information not available, Contact administrator. hence service stopped
